@@ -10,6 +10,10 @@ List of papers, code and experiments using deep learning for time series forecas
 - [Deep learning for time series classification: a review](https://arxiv.org/abs/1809.04356)
   
   - Code
+  
+- [Multivariate LSTM-FCNs for Time Series Classification](https://arxiv.org/abs/1801.04503)
+
+  - Code
 
 - [Criteria for classifying forecasting methods](https://www.sciencedirect.com/science/article/pii/S0169207019301529)
 
