@@ -7,6 +7,10 @@ List of papers, code and experiments using deep learning for time series forecas
 
 ### 2019
 
+- [Deep learning for time series classification: a review](https://arxiv.org/abs/1809.04356)
+  
+  - Code
+
 - [Criteria for classifying forecasting methods](https://www.sciencedirect.com/science/article/pii/S0169207019301529)
 
 - [GluonTS: Probabilistic Time Series Models in Python](https://arxiv.org/abs/1906.05264)
@@ -17,7 +21,7 @@ List of papers, code and experiments using deep learning for time series forecas
 
 - [Deep State Space Models for Time Series Forecasting](https://papers.nips.cc/paper/8004-deep-state-space-models-for-time-series-forecasting.pdf)
   
-  - code
+  - Code
   
 ### Comparative: Classical methods vs Deep Learning methods
 
