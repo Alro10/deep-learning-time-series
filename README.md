@@ -31,6 +31,10 @@ List of papers, code and experiments using deep learning for time series forecas
 
 
 ### 2016
+
+- [Temporal Regularized Matrix Factorization for High-dimensional Time Series Prediction](https://papers.nips.cc/paper/6160-temporal-regularized-matrix-factorization-for-high-dimensional-time-series-prediction)
+ 
+  - [[Code]()]
   
 ### Comparative: Classical methods vs Deep Learning methods
 
