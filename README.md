@@ -1,5 +1,4 @@
 # Deep learning time series Forecasting
-[![Build Status](https://travis-ci.org/dwyl/esta.svg?branch=master)](https://travis-ci.org/dwyl/esta) 
 
 List of papers, code and experiments using deep learning for time series forecasting.
 
