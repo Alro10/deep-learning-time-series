@@ -8,6 +8,8 @@ List of papers, resources, code and experiments using deep learning for time ser
 
 ### 2019
 
+- [Recurrent Neural Networks for Time Series Forecasting: Current Status and Future Directions](https://arxiv.org/pdf/1909.00590.pdf)
+
 - [Deep learning for time series classification: a review](https://arxiv.org/abs/1809.04356)
   
   - Code
