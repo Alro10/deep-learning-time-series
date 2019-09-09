@@ -10,6 +10,10 @@ List of papers, resources, code and experiments using deep learning for time ser
 
 - [Recurrent Neural Networks for Time Series Forecasting: Current Status and Future Directions](https://arxiv.org/pdf/1909.00590.pdf)
 
+- [Learning Interpretable Deep State Space Model for Probabilistic Time Series Forecasting](https://www.ijcai.org/proceedings/2019/0402.pdf)
+ 
+ - Code
+
 - [Deep learning for time series classification: a review](https://arxiv.org/abs/1809.04356)
   
   - Code
