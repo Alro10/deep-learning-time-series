@@ -55,4 +55,12 @@ List of papers, resources, code and experiments using deep learning for time ser
 
 ## Conferences
 
+- Artificial intelligence
+   * [AAAI](https://www.aaai.org/)
+   * [AISTATS](https://www.aistats.org/)
+   * [ICANN](https://e-nns.org/icann2019/)   
+   * [IJCAI](https://www.ijcai.org/)
+   * [UAI](http://www.auai.org/)
+
+
 ## Code
