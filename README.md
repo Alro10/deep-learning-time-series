@@ -66,3 +66,7 @@ List of papers, resources, code and experiments using deep learning for time ser
 
 
 ## Code
+
+## Datasets
+
+- [Kaggle-Web Traffic Time Series Forecasting](https://www.kaggle.com/c/web-traffic-time-series-forecasting)
