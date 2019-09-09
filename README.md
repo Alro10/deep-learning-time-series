@@ -14,6 +14,10 @@ List of papers, resources, code and experiments using deep learning for time ser
  
   - Code
 
+- [Probabilistic Forecasting with Spline Quantile Function RNNs](http://proceedings.mlr.press/v89/gasthaus19a/gasthaus19a.pdf)
+
+  - Code
+
 - [Deep learning for time series classification: a review](https://arxiv.org/abs/1809.04356)
   
   - Code
