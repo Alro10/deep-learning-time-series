@@ -73,6 +73,8 @@ List of papers, resources, code and experiments using deep learning for time ser
 
 ## Code
 
+- [Papers with code - Multivariate time series forecasting](https://paperswithcode.com/task/multivariate-time-series-forecasting)
+
 ## Datasets
 
 - [Kaggle-Web Traffic Time Series Forecasting](https://www.kaggle.com/c/web-traffic-time-series-forecasting)
