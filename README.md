@@ -12,7 +12,11 @@ List of papers, resources, code and experiments using deep learning for time ser
 
   - [[Code](https://github.com/HansikaPH/time-series-forecasting)]
 
-- [Learning Interpretable Deep State Space Model for Probabilistic Time Series Forecasting](https://www.ijcai.org/proceedings/2019/0402.pdf)
+- [Explainable Deep Neural Networks for Multivariate Time Series Predictions](https://www.ijcai.org/proceedings/2019/0932.pdf) `IJCAI 2019`
+
+  - [Code]
+
+- [Learning Interpretable Deep State Space Model for Probabilistic Time Series Forecasting](https://www.ijcai.org/proceedings/2019/0402.pdf) `IJCAI 2019`
  
   - Code
 
