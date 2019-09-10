@@ -14,6 +14,8 @@ List of papers, resources, code and experiments using deep learning for time ser
 
 - [Explainable Deep Neural Networks for Multivariate Time Series Predictions](https://www.ijcai.org/proceedings/2019/0932.pdf) `IJCAI 2019`
 
+  - Roy Assaf and Anika Schumann. IBM Research, Zurich
+
   - [Code]
 
 - [Learning Interpretable Deep State Space Model for Probabilistic Time Series Forecasting](https://www.ijcai.org/proceedings/2019/0402.pdf) `IJCAI 2019`
