@@ -28,7 +28,7 @@ List of papers (state of the art, classic methods vs Deep Learning methods), res
   
 - [Outlier Detection for Time Series with Recurrent Autoencoder Ensembles](https://www.ijcai.org/proceedings/2019/0378.pdf) `IJCAI 2019`
 
-  -[[Code](https://github.com/tungk/OED)]
+  - [[Code](https://github.com/tungk/OED)]
 
 - [Learning Interpretable Deep State Space Model for Probabilistic Time Series Forecasting](https://www.ijcai.org/proceedings/2019/0402.pdf) `IJCAI 2019`
  
