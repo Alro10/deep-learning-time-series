@@ -2,7 +2,15 @@
 [![PRsWelcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 
-List of papers, resources, code and experiments using deep learning for time series forecasting.
+List of papers (state of the art, classic methods vs Deep Learning methods), resources, code and experiments using deep learning for time series forecasting.
+
+## [Table of Contents]()
+
+* [Papers](#Papers)
+* [Conferences](#Conferences)
+* [Code](#Code)
+* [Datasets](#Datasets)
+
 
 ## Papers
 
