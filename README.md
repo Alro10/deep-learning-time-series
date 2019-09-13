@@ -34,6 +34,10 @@ List of papers (state of the art, classic methods vs Deep Learning methods), res
  
   - Code
 
+- [Deep Factors for Forecasting](https://arxiv.org/pdf/1905.12417.pdf) `ICML 2019`
+
+  - [Code]
+
 - [Probabilistic Forecasting with Spline Quantile Function RNNs](http://proceedings.mlr.press/v89/gasthaus19a/gasthaus19a.pdf)
 
   - Code
