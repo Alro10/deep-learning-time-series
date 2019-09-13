@@ -56,7 +56,7 @@ List of papers (state of the art, classic methods vs Deep Learning methods), res
 
 ### 2018 
 
-- [Deep State Space Models for Time Series Forecasting](https://papers.nips.cc/paper/8004-deep-state-space-models-for-time-series-forecasting.pdf)
+- [Deep State Space Models for Time Series Forecasting](https://papers.nips.cc/paper/8004-deep-state-space-models-for-time-series-forecasting.pdf) `NeuroIPS2018`
   
   - Code
   
@@ -76,6 +76,11 @@ List of papers (state of the art, classic methods vs Deep Learning methods), res
 
 
 ## Conferences
+
+- Machine learning
+   * [NeurIPS](https://nips.cc/) 
+   * [ICML](https://icml.cc/) 
+   * [ICLR](https://iclr.cc/)
 
 - Artificial intelligence
    * [AAAI](https://www.aaai.org/)
