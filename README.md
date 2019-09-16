@@ -98,6 +98,10 @@ List of papers (state of the art, classic methods vs Deep Learning methods), res
 
 - [Papers with code - Multivariate time series forecasting](https://paperswithcode.com/task/multivariate-time-series-forecasting)
 
+- https://www.kaggle.com/c/demand-forecasting-kernels-only
+
+- 
+
 ## Datasets
 
 - [Kaggle-Web Traffic Time Series Forecasting](https://www.kaggle.com/c/web-traffic-time-series-forecasting)
