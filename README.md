@@ -104,6 +104,8 @@ List of papers (state of the art, classic methods vs Deep Learning methods), res
 
 - https://www.kaggle.com/c/grupo-bimbo-inventory-demand
 
+- https://www.kaggle.com/c/recruit-restaurant-visitor-forecasting
+
 ## Datasets
 
 - [Kaggle-Web Traffic Time Series Forecasting](https://www.kaggle.com/c/web-traffic-time-series-forecasting)
