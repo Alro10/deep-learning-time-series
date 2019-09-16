@@ -100,7 +100,7 @@ List of papers (state of the art, classic methods vs Deep Learning methods), res
 
 - https://www.kaggle.com/c/demand-forecasting-kernels-only
 
-- 
+- https://www.kaggle.com/c/favorita-grocery-sales-forecasting
 
 ## Datasets
 
