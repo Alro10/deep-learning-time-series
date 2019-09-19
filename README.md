@@ -106,6 +106,8 @@ List of papers (state of the art, classic methods vs Deep Learning methods), res
 
 - [DFGP by Amazon](https://aws.amazon.com/blogs/machine-learning/now-available-in-amazon-sagemaker-deepar-algorithm-for-more-accurate-time-series-forecasting/)
 
+- [Electricity and Traffic datasets from UCI repository](https://github.com/rofuyu/exp-trmf-nips16/tree/master/python)
+
 - https://www.kaggle.com/c/demand-forecasting-kernels-only
 
 - https://www.kaggle.com/c/favorita-grocery-sales-forecasting
