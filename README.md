@@ -102,6 +102,8 @@ List of papers (state of the art, classic methods vs Deep Learning methods), res
 
 - [Papers with code - Multivariate time series forecasting](https://paperswithcode.com/task/multivariate-time-series-forecasting)
 
+- [DeepAR by Amazon](https://docs.aws.amazon.com/sagemaker/latest/dg/deepar.html)
+
 - https://www.kaggle.com/c/demand-forecasting-kernels-only
 
 - https://www.kaggle.com/c/favorita-grocery-sales-forecasting
