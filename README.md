@@ -66,7 +66,7 @@ List of papers (state of the art, classic methods vs Deep Learning methods), res
 
 - [Deep Factors with Gaussian Processes for Forecasting](https://arxiv.org/abs/1812.00098)`Third workshop on Bayesian Deep Learning (NeurIPS 2018)`
   
-  - Code
+  - [[Code](https://aws.amazon.com/blogs/machine-learning/now-available-in-amazon-sagemaker-deepar-algorithm-for-more-accurate-time-series-forecasting/)]
   
 ### 2017
 
@@ -103,6 +103,8 @@ List of papers (state of the art, classic methods vs Deep Learning methods), res
 - [Papers with code - Multivariate time series forecasting](https://paperswithcode.com/task/multivariate-time-series-forecasting)
 
 - [DeepAR by Amazon](https://docs.aws.amazon.com/sagemaker/latest/dg/deepar.html)
+
+- [DFGP by Amazon](https://aws.amazon.com/blogs/machine-learning/now-available-in-amazon-sagemaker-deepar-algorithm-for-more-accurate-time-series-forecasting/)
 
 - https://www.kaggle.com/c/demand-forecasting-kernels-only
 
