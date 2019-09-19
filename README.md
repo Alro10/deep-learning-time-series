@@ -61,6 +61,10 @@ List of papers (state of the art, classic methods vs Deep Learning methods), res
 ### 2018 
 
 - [Deep State Space Models for Time Series Forecasting](https://papers.nips.cc/paper/8004-deep-state-space-models-for-time-series-forecasting.pdf) `NeurIPS2018`
+
+  - Code
+
+- [Deep Factors with Gaussian Processes for Forecasting](https://arxiv.org/abs/1812.00098)`Third workshop on Bayesian Deep Learning (NeurIPS 2018)`
   
   - Code
   
