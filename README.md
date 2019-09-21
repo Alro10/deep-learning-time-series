@@ -100,6 +100,8 @@ List of papers (state of the art, classic methods vs Deep Learning methods), res
 
 ## Code
 
+- [SKTIME: A UNIFIED INTERFACE FOR MACHINE LEARNING WITH TIME SERIE](https://arxiv.org/pdf/1909.07872.pdf)
+
 - [Papers with code - Multivariate time series forecasting](https://paperswithcode.com/task/multivariate-time-series-forecasting)
 
 - [DeepAR by Amazon](https://docs.aws.amazon.com/sagemaker/latest/dg/deepar.html)
