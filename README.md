@@ -16,6 +16,8 @@ List of papers (state of the art, classic methods vs Deep Learning methods), res
 
 ### 2019
 
+- [SKTIME: A UNIFIED INTERFACE FOR MACHINE LEARNING WITH TIME SERIE](https://arxiv.org/pdf/1909.07872.pdf)
+
 - [Recurrent Neural Networks for Time Series Forecasting: Current Status and Future Directions](https://arxiv.org/pdf/1909.00590.pdf)
 
   - [[Code](https://github.com/HansikaPH/time-series-forecasting)]
@@ -100,7 +102,7 @@ List of papers (state of the art, classic methods vs Deep Learning methods), res
 
 ## Code
 
-- [SKTIME: A UNIFIED INTERFACE FOR MACHINE LEARNING WITH TIME SERIE](https://arxiv.org/pdf/1909.07872.pdf)
+- [SKTIME](https://github.com/alan-turing-institute/sktime)
 
 - [Papers with code - Multivariate time series forecasting](https://paperswithcode.com/task/multivariate-time-series-forecasting)
 
