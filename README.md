@@ -23,6 +23,12 @@ List of papers state of the art focus on deep learning, classic methods vs deep 
 
   - [[Code](https://github.com/HansikaPH/time-series-forecasting)]
 
+- [Evaluation of statistical and machine learning models for time series prediction: Identifying the state-of-the-art and the best conditions for the use of each model](https://www.researchgate.net/profile/Antonio_Parmezan/publication/330742498_Evaluation_of_statistical_and_machine_learning_models_for_time_series_prediction_Identifying_the_state-of-the-art_and_the_best_conditions_for_the_use_of_each_model/links/5c558145a6fdccd6b5dc3e2e/Evaluation-of-statistical-and-machine-learning-models-for-time-series-prediction-Identifying-the-state-of-the-art-and-the-best-conditions-for-the-use-of-each-model.pdf)
+
+   - Antonio Rafael Sabino Parmezan, Vinicius M. A. Souza and Gustavo E. A. P. A. Batista. USP
+   
+   - [[Code]()]
+
 - [Explainable Deep Neural Networks for Multivariate Time Series Predictions](https://www.ijcai.org/proceedings/2019/0932.pdf) `IJCAI 2019`
 
   - Roy Assaf and Anika Schumann. IBM Research, Zurich
