@@ -17,7 +17,7 @@ List of papers state of the art focus on deep learning, classic methods vs deep 
 
 ### 2019
 
-- [Shape and Time Distortion Loss for Training Deep Time Series Forecasting Models (https://arxiv.org/pdf/1909.09020.pdf)`NeurIPS2019`
+- [Shape and Time Distortion Loss for Training Deep Time Series Forecasting Models](https://arxiv.org/pdf/1909.09020.pdf)`NeurIPS2019`
 
   - Vincent Le Guen and Nicolas Thome.
   
