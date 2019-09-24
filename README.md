@@ -22,10 +22,12 @@ List of papers state of the art focus on deep learning, classic methods vs deep 
   - Vincent Le Guen and Nicolas Thome.
   
   - [Code](https://github.com/vincent-leguen/STDL)
+  
 
 - [SKTIME: A UNIFIED INTERFACE FOR MACHINE LEARNING WITH TIME SERIE](https://arxiv.org/pdf/1909.07872.pdf)
 
- - [Code](https://github.com/alan-turing-institute/sktime)
+  - [Code](https://github.com/alan-turing-institute/sktime)
+  
 
 - [Recurrent Neural Networks for Time Series Forecasting: Current Status and Future Directions](https://arxiv.org/pdf/1909.00590.pdf)
 
@@ -35,7 +37,6 @@ List of papers state of the art focus on deep learning, classic methods vs deep 
 
    - Antonio Rafael Sabino Parmezan, Vinicius M. A. Souza and Gustavo E. A. P. A. Batista. USP
    
-   - [[Code]()]
 
 - [Explainable Deep Neural Networks for Multivariate Time Series Predictions](https://www.ijcai.org/proceedings/2019/0932.pdf) `IJCAI 2019`
 
