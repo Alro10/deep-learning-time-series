@@ -17,7 +17,15 @@ List of papers state of the art focus on deep learning, classic methods vs deep 
 
 ### 2019
 
+- [Shape and Time Distortion Loss for Training Deep Time Series Forecasting Models (https://arxiv.org/pdf/1909.09020.pdf)`NeurIPS2019`
+
+  - Vincent Le Guen and Nicolas Thome.
+  
+  - [Code](https://github.com/vincent-leguen/STDL)
+
 - [SKTIME: A UNIFIED INTERFACE FOR MACHINE LEARNING WITH TIME SERIE](https://arxiv.org/pdf/1909.07872.pdf)
+
+ - [Code](https://github.com/alan-turing-institute/sktime)
 
 - [Recurrent Neural Networks for Time Series Forecasting: Current Status and Future Directions](https://arxiv.org/pdf/1909.00590.pdf)
 
