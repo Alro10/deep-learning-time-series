@@ -20,24 +20,22 @@ List of papers state of the art focus on deep learning, classic methods vs deep 
 - [Self-boosted Time-series Forecasting with Multi-task and Multi-view Learning](https://arxiv.org/pdf/1909.08181.pdf) `AAAI 2020`
 
   - Long H. Nguyen, et al.
-
-  - [Code]
+  - Code not yet
 
 - [Shape and Time Distortion Loss for Training Deep Time Series Forecasting Models](https://arxiv.org/pdf/1909.09020.pdf)`NeurIPS2019`
 
   - Vincent Le Guen and Nicolas Thome.
-  
-  - [Code](https://github.com/vincent-leguen/STDL) 
+  - [[Code]](https://github.com/vincent-leguen/STDL) 
   
 
 - [SKTIME: A UNIFIED INTERFACE FOR MACHINE LEARNING WITH TIME SERIE](https://arxiv.org/pdf/1909.07872.pdf)
 
-  - [Code](https://github.com/alan-turing-institute/sktime)
+  - [[Code]](https://github.com/alan-turing-institute/sktime)
   
 
 - [Recurrent Neural Networks for Time Series Forecasting: Current Status and Future Directions](https://arxiv.org/pdf/1909.00590.pdf)
 
-  - [[Code](https://github.com/HansikaPH/time-series-forecasting)]
+  - [[Code]](https://github.com/HansikaPH/time-series-forecasting)
 
 - [Evaluation of statistical and machine learning models for time series prediction: Identifying the state-of-the-art and the best conditions for the use of each model](https://www.researchgate.net/profile/Antonio_Parmezan/publication/330742498_Evaluation_of_statistical_and_machine_learning_models_for_time_series_prediction_Identifying_the_state-of-the-art_and_the_best_conditions_for_the_use_of_each_model/links/5c558145a6fdccd6b5dc3e2e/Evaluation-of-statistical-and-machine-learning-models-for-time-series-prediction-Identifying-the-state-of-the-art-and-the-best-conditions-for-the-use-of-each-model.pdf)
 
@@ -47,12 +45,12 @@ List of papers state of the art focus on deep learning, classic methods vs deep 
 - [Explainable Deep Neural Networks for Multivariate Time Series Predictions](https://www.ijcai.org/proceedings/2019/0932.pdf) `IJCAI 2019`
 
   - Roy Assaf and Anika Schumann. IBM Research, Zurich
+  - Code not yet
 
-  - [Code]
   
 - [Outlier Detection for Time Series with Recurrent Autoencoder Ensembles](https://www.ijcai.org/proceedings/2019/0378.pdf) `IJCAI 2019`
 
-  - [[Code](https://github.com/tungk/OED)]
+  - [[Code]](https://github.com/tungk/OED)
 
 - [Learning Interpretable Deep State Space Model for Probabilistic Time Series Forecasting](https://www.ijcai.org/proceedings/2019/0402.pdf) `IJCAI 2019`
  
