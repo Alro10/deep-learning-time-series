@@ -101,8 +101,8 @@ List of papers state of the art focus on deep learning, classic methods vs deep 
   
 ### Comparative: Classical methods vs Deep Learning methods
 
-- https://arxiv.org/pdf/1803.06386.pdf
-- https://pdfs.semanticscholar.org/e58c/7343ea25d05f6d859d66d6bb7fb91ecf9c2f.pdf
+- [Forecasting economic and financial time series: ARIMA VS. LSTM](https://arxiv.org/pdf/1803.06386.pdf)
+- [A comparative study between LSTM and ARIMA for sales forecasting in retail](https://pdfs.semanticscholar.org/e58c/7343ea25d05f6d859d66d6bb7fb91ecf9c2f.pdf)
 
 
 ## Conferences
