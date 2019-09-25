@@ -17,11 +17,17 @@ List of papers state of the art focus on deep learning, classic methods vs deep 
 
 ### 2019
 
+- [Self-boosted Time-series Forecasting with Multi-task and Multi-view Learning](https://arxiv.org/pdf/1909.08181.pdf) `AAAI 2020`
+
+  - Long H. Nguyen, et al.
+
+  - [Code]
+
 - [Shape and Time Distortion Loss for Training Deep Time Series Forecasting Models](https://arxiv.org/pdf/1909.09020.pdf)`NeurIPS2019`
 
   - Vincent Le Guen and Nicolas Thome.
   
-  - [Code](https://github.com/vincent-leguen/STDL)
+  - [Code](https://github.com/vincent-leguen/STDL) 
   
 
 - [SKTIME: A UNIFIED INTERFACE FOR MACHINE LEARNING WITH TIME SERIE](https://arxiv.org/pdf/1909.07872.pdf)
