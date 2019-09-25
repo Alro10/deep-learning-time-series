@@ -148,3 +148,5 @@ List of papers state of the art focus on deep learning, classic methods vs deep 
 - [Kaggle-Web Traffic Time Series Forecasting](https://www.kaggle.com/c/web-traffic-time-series-forecasting)
 
 - [Electricity from UCI](https://archive.ics.uci.edu/ml/datasets/ElectricityLoadDiagrams20112014)
+
+- [Air quality from UCI](http://archive.ics.uci.edu/ml/datasets/Air+Quality)
