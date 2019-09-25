@@ -25,17 +25,17 @@ List of papers state of the art focus on deep learning, classic methods vs deep 
 - [Shape and Time Distortion Loss for Training Deep Time Series Forecasting Models](https://arxiv.org/pdf/1909.09020.pdf)`NeurIPS2019`
 
   - Vincent Le Guen and Nicolas Thome.
-  - [[Code]](https://github.com/vincent-leguen/STDL) 
+  - [[Code](https://github.com/vincent-leguen/STDL)] 
   
 
 - [SKTIME: A UNIFIED INTERFACE FOR MACHINE LEARNING WITH TIME SERIE](https://arxiv.org/pdf/1909.07872.pdf)
 
-  - [[Code]](https://github.com/alan-turing-institute/sktime)
+  - [[Code](https://github.com/alan-turing-institute/sktime)]
   
 
 - [Recurrent Neural Networks for Time Series Forecasting: Current Status and Future Directions](https://arxiv.org/pdf/1909.00590.pdf)
 
-  - [[Code]](https://github.com/HansikaPH/time-series-forecasting)
+  - [[Code](https://github.com/HansikaPH/time-series-forecasting)]
 
 - [Evaluation of statistical and machine learning models for time series prediction: Identifying the state-of-the-art and the best conditions for the use of each model](https://www.researchgate.net/profile/Antonio_Parmezan/publication/330742498_Evaluation_of_statistical_and_machine_learning_models_for_time_series_prediction_Identifying_the_state-of-the-art_and_the_best_conditions_for_the_use_of_each_model/links/5c558145a6fdccd6b5dc3e2e/Evaluation-of-statistical-and-machine-learning-models-for-time-series-prediction-Identifying-the-state-of-the-art-and-the-best-conditions-for-the-use-of-each-model.pdf)
 
@@ -50,31 +50,31 @@ List of papers state of the art focus on deep learning, classic methods vs deep 
   
 - [Outlier Detection for Time Series with Recurrent Autoencoder Ensembles](https://www.ijcai.org/proceedings/2019/0378.pdf) `IJCAI 2019`
 
-  - [[Code]](https://github.com/tungk/OED)
+  - [[Code](https://github.com/tungk/OED)]
 
 - [Learning Interpretable Deep State Space Model for Probabilistic Time Series Forecasting](https://www.ijcai.org/proceedings/2019/0402.pdf) `IJCAI 2019`
  
-  - Code
+  - Code not yet
 
 - [Deep Factors for Forecasting](https://arxiv.org/pdf/1905.12417.pdf) `ICML 2019`
 
-  - [Code]
+  - Code not yet
 
 - [Probabilistic Forecasting with Spline Quantile Function RNNs](http://proceedings.mlr.press/v89/gasthaus19a/gasthaus19a.pdf)
 
-  - Code
+  - Code not yet
 
 - [Deep learning for time series classification: a review](https://arxiv.org/abs/1809.04356)
   
-  - Code
+  - Code not yet
   
 - [Multivariate LSTM-FCNs for Time Series Classification](https://arxiv.org/abs/1801.04503)
 
-  - Code
+  - Code not yet
 
 - [Criteria for classifying forecasting methods](https://www.sciencedirect.com/science/article/pii/S0169207019301529)
 
-  - Code
+  - Code not yet
 
 - [GluonTS: Probabilistic Time Series Models in Python](https://arxiv.org/abs/1906.05264)
 
@@ -84,7 +84,7 @@ List of papers state of the art focus on deep learning, classic methods vs deep 
 
 - [Deep State Space Models for Time Series Forecasting](https://papers.nips.cc/paper/8004-deep-state-space-models-for-time-series-forecasting.pdf) `NeurIPS2018`
 
-  - Code
+  - Code not yet
 
 - [Deep Factors with Gaussian Processes for Forecasting](https://arxiv.org/abs/1812.00098)`Third workshop on Bayesian Deep Learning (NeurIPS 2018)`
   
