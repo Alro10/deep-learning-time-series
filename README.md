@@ -141,6 +141,8 @@ List of papers state of the art focus on deep learning, classic methods vs deep 
 
 - https://www.kaggle.com/c/recruit-restaurant-visitor-forecasting
 
+- [Predicting/hypothesizing the findings of the M4 Competition (https://www.sciencedirect.com/science/article/pii/S0169207019301098)
+
 ## Datasets
 
 - [Kaggle-Web Traffic Time Series Forecasting](https://www.kaggle.com/c/web-traffic-time-series-forecasting)
