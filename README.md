@@ -2,7 +2,7 @@
 [![PRsWelcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 
-List of papers state of the art focus on deep learning, classic methods vs deep learning methods, resources, code and experiments using deep learning for time series forecasting.
+List of state of the art papers focus on deep learning. Classic methods vs deep learning methods. Resources, code and experiments using deep learning for time series forecasting.
 
 ## [Table of Contents]()
 
