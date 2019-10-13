@@ -17,6 +17,11 @@ List of state of the art papers focus on deep learning. Classic methods vs deep 
 
 ### 2019
 
+- [High-Dimensional Multivariate Forecasting with Low-Rank Gaussian Copula Processes](https://arxiv.org/pdf/1910.03002.pdf)`NeurIPS 2019`
+
+  - David Salinas, et al.
+  - Code not yet
+
 - [Self-boosted Time-series Forecasting with Multi-task and Multi-view Learning](https://arxiv.org/pdf/1909.08181.pdf) `AAAI 2020`
 
   - Long H. Nguyen, et al.
