@@ -17,6 +17,10 @@ List of state of the art papers focus on deep learning. Classic methods vs deep 
 
 ### 2019
 
+- [Sequential VAE-LSTM for Anomaly Detection on Time Series](https://arxiv.org/pdf/1910.03818.pdf)
+
+  - Run-Qing Chen, et al.
+
 - [High-Dimensional Multivariate Forecasting with Low-Rank Gaussian Copula Processes](https://arxiv.org/pdf/1910.03002.pdf)`NeurIPS 2019`
 
   - David Salinas, et al.
