@@ -97,10 +97,15 @@ List of state of the art papers focus on deep learning. Classic methods vs deep 
   
 ### 2017
 
+- [DIFFUSION CONVOLUTIONAL RECURRENT NEURAL NETWORK: DATA-DRIVEN TRAFFIC FORECASTING](https://arxiv.org/pdf/1707.01926.pdf)`ICLR 2019`
+
+  - Yaguang Li, et al.
+  - [[Code](https://github.com/liyaguang/DCRNN)]
+
 
 ### 2016
 
-- [Temporal Regularized Matrix Factorization for High-dimensional Time Series Prediction](https://papers.nips.cc/paper/6160-temporal-regularized-matrix-factorization-for-high-dimensional-time-series-prediction)
+- [Temporal Regularized Matrix Factorization for High-dimensional Time Series Prediction](https://papers.nips.cc/paper/6160-temporal-regularized-matrix-factorization-for-high-dimensional-time-series-prediction)`NIPS 2019`
  
   - [[Code](https://github.com/rofuyu/exp-trmf-nips16)]
   
