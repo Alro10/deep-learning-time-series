@@ -17,9 +17,15 @@ List of state of the art papers focus on deep learning. Classic methods vs deep 
 
 ### 2019
 
+- [Probabilistic sequential matrix factorization](https://arxiv.org/pdf/1910.03906.pdf)
+
+  - Ömer Deniz Akyildiz, et al.
+  - Code not yet
+
 - [Sequential VAE-LSTM for Anomaly Detection on Time Series](https://arxiv.org/pdf/1910.03818.pdf)
 
   - Run-Qing Chen, et al.
+  - Code not yet
 
 - [High-Dimensional Multivariate Forecasting with Low-Rank Gaussian Copula Processes](https://arxiv.org/pdf/1910.03002.pdf)`NeurIPS 2019`
 
