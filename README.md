@@ -84,6 +84,11 @@ List of state of the art papers focus on deep learning. Classic methods vs deep 
 - [GluonTS: Probabilistic Time Series Models in Python](https://arxiv.org/abs/1906.05264)
 
    - [[Code](https://gluon-ts.mxnet.io)]
+ 
+- [DeepAR: Probabilistic Forecasting with Autoregressive Recurrent Networks](https://arxiv.org/abs/1704.04110)
+
+  - David Salinas, et al.
+  - Code not yet
 
 ### 2018 
 
