@@ -146,7 +146,12 @@ List of state of the art papers focus on deep learning. Classic methods vs deep 
 
 ## Code
 
-## Code-Resources
+## Theory-Resource
+
+- [Backpropagation for LSTM](https://towardsdatascience.com/back-to-basics-deriving-back-propagation-on-simple-rnn-lstm-feat-aidan-gomez-c7f286ba973d)
+
+- 
+## Code-Resource
 
 - [SKTIME](https://github.com/alan-turing-institute/sktime)
 
