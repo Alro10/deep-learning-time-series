@@ -150,7 +150,8 @@ List of state of the art papers focus on deep learning. Classic methods vs deep 
 
 - [Backpropagation for LSTM](https://towardsdatascience.com/back-to-basics-deriving-back-propagation-on-simple-rnn-lstm-feat-aidan-gomez-c7f286ba973d)
 
-- 
+- [Time Series Analysis with Deep Learning : Simplified](https://towardsdatascience.com/time-series-analysis-with-deep-learning-simplified-5c444315d773)
+
 ## Code-Resource
 
 - [SKTIME](https://github.com/alan-turing-institute/sktime)
