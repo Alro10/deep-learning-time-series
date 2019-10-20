@@ -17,6 +17,11 @@ List of state of the art papers focus on deep learning. Classic methods vs deep 
 
 ### 2019
 
+- [Bayesian Temporal Factorization for Multidimensional Time Series Prediction](https://arxiv.org/pdf/1910.06366.pdf)
+
+ - Xinyu Chen, and Lijun Sun
+ - [[Code and data](https://github.com/xinychen/transdim)]
+
 - [Probabilistic sequential matrix factorization](https://arxiv.org/pdf/1910.03906.pdf)
 
   - Ömer Deniz Akyildiz, et al.
