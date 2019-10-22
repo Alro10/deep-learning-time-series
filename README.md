@@ -161,6 +161,8 @@ List of state of the art papers focus on deep learning. Classic methods vs deep 
 
 ## Code-Resource
 
+- [Non-Gaussian forecasting using fable - R](https://robjhyndman.com/hyndsight/fable2/)
+
 - [SKTIME](https://github.com/alan-turing-institute/sktime)
 
 - [Papers with code - Multivariate time series forecasting](https://paperswithcode.com/task/multivariate-time-series-forecasting)
