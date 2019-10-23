@@ -20,7 +20,7 @@ List of state of the art papers focus on deep learning. Classic methods vs deep 
 - [Dynamic Local Regret for Non-convex Online Forecasting](https://arxiv.org/pdf/1910.07927.pdf)`NeurIPS 2019`
 
   - Sergul Aydore, et al.
-  -[[Code](https://github.com/Timbasa/Dynamic_Local_Regret_for_Non-convex_Online_Forecasting_NeurIPS2019)]
+  - [[Code](https://github.com/Timbasa/Dynamic_Local_Regret_for_Non-convex_Online_Forecasting_NeurIPS2019)]
 
 - [Bayesian Temporal Factorization for Multidimensional Time Series Prediction](https://arxiv.org/pdf/1910.06366.pdf)
 
