@@ -161,11 +161,11 @@ List of state of the art papers focus on deep learning. Classic methods vs deep 
 
 ## Theory-Resource
 
+- [Backpropagation for LSTM](https://towardsdatascience.com/back-to-basics-deriving-back-propagation-on-simple-rnn-lstm-feat-aidan-gomez-c7f286ba973d)
+
 - [Stock Market Prediction by Recurrent Neural Network on LSTM Model](https://blog.usejournal.com/stock-market-prediction-by-recurrent-neural-network-on-lstm-model-56de700bff68)
 
 - [Decoupling Hierarchical Recurrent Neural Networks With Locally Computable Losses](https://arxiv.org/pdf/1910.05245.pdf)
-
-- [Backpropagation for LSTM](https://towardsdatascience.com/back-to-basics-deriving-back-propagation-on-simple-rnn-lstm-feat-aidan-gomez-c7f286ba973d)
 
 - [Time Series Analysis with Deep Learning : Simplified](https://towardsdatascience.com/time-series-analysis-with-deep-learning-simplified-5c444315d773)
 
