@@ -55,13 +55,13 @@ List of state of the art papers focus on deep learning. Classic methods vs Deep 
 - [Shape and Time Distortion Loss for Training Deep Time Series Forecasting Models](https://arxiv.org/pdf/1909.09020.pdf)`NeurIPS2019`
 
   - Vincent Le Guen and Nicolas Thome.
-  - [[Code](https://github.com/vincent-leguen/STDL)] 
-  
+  - [[Code](https://github.com/vincent-leguen/STDL)]
+
 
 - [SKTIME: A UNIFIED INTERFACE FOR MACHINE LEARNING WITH TIME SERIE](https://arxiv.org/pdf/1909.07872.pdf)
 
   - [[Code](https://github.com/alan-turing-institute/sktime)]
-  
+
 
 - [Recurrent Neural Networks for Time Series Forecasting: Current Status and Future Directions](https://arxiv.org/pdf/1909.00590.pdf)
 
@@ -70,20 +70,20 @@ List of state of the art papers focus on deep learning. Classic methods vs Deep 
 - [Evaluation of statistical and machine learning models for time series prediction: Identifying the state-of-the-art and the best conditions for the use of each model](https://www.researchgate.net/profile/Antonio_Parmezan/publication/330742498_Evaluation_of_statistical_and_machine_learning_models_for_time_series_prediction_Identifying_the_state-of-the-art_and_the_best_conditions_for_the_use_of_each_model/links/5c558145a6fdccd6b5dc3e2e/Evaluation-of-statistical-and-machine-learning-models-for-time-series-prediction-Identifying-the-state-of-the-art-and-the-best-conditions-for-the-use-of-each-model.pdf)
 
    - Antonio Rafael Sabino Parmezan, Vinicius M. A. Souza and Gustavo E. A. P. A. Batista. USP
-   
+
 
 - [Explainable Deep Neural Networks for Multivariate Time Series Predictions](https://www.ijcai.org/proceedings/2019/0932.pdf) `IJCAI 2019`
 
   - Roy Assaf and Anika Schumann. IBM Research, Zurich
   - Code not yet
 
-  
+
 - [Outlier Detection for Time Series with Recurrent Autoencoder Ensembles](https://www.ijcai.org/proceedings/2019/0378.pdf) `IJCAI 2019`
 
   - [[Code](https://github.com/tungk/OED)]
 
 - [Learning Interpretable Deep State Space Model for Probabilistic Time Series Forecasting](https://www.ijcai.org/proceedings/2019/0402.pdf) `IJCAI 2019`
- 
+
   - Code not yet
 
 - [Deep Factors for Forecasting](https://arxiv.org/pdf/1905.12417.pdf) `ICML 2019`
@@ -95,9 +95,9 @@ List of state of the art papers focus on deep learning. Classic methods vs Deep 
   - Code not yet
 
 - [Deep learning for time series classification: a review](https://arxiv.org/abs/1809.04356)
-  
+
   - Code not yet
-  
+
 - [Multivariate LSTM-FCNs for Time Series Classification](https://arxiv.org/abs/1801.04503)
 
   - Code not yet
@@ -109,22 +109,22 @@ List of state of the art papers focus on deep learning. Classic methods vs Deep 
 - [GluonTS: Probabilistic Time Series Models in Python](https://arxiv.org/abs/1906.05264)
 
    - [[Code](https://gluon-ts.mxnet.io)]
- 
+
 - [DeepAR: Probabilistic Forecasting with Autoregressive Recurrent Networks](https://arxiv.org/abs/1704.04110)
 
   - David Salinas, et al.
   - Code not yet
 
-### 2018 
+### 2018
 
 - [Deep State Space Models for Time Series Forecasting](https://papers.nips.cc/paper/8004-deep-state-space-models-for-time-series-forecasting.pdf) `NeurIPS2018`
 
   - Code not yet
 
 - [Deep Factors with Gaussian Processes for Forecasting](https://arxiv.org/abs/1812.00098)`Third workshop on Bayesian Deep Learning (NeurIPS 2018)`
-  
+
   - [[Code](https://aws.amazon.com/blogs/machine-learning/now-available-in-amazon-sagemaker-deepar-algorithm-for-more-accurate-time-series-forecasting/)]
-  
+
 ### 2017
 
 - [DIFFUSION CONVOLUTIONAL RECURRENT NEURAL NETWORK: DATA-DRIVEN TRAFFIC FORECASTING](https://arxiv.org/pdf/1707.01926.pdf)`ICLR 2019`
@@ -136,9 +136,9 @@ List of state of the art papers focus on deep learning. Classic methods vs Deep 
 ### 2016
 
 - [Temporal Regularized Matrix Factorization for High-dimensional Time Series Prediction](https://papers.nips.cc/paper/6160-temporal-regularized-matrix-factorization-for-high-dimensional-time-series-prediction)`NIPS 2016`
- 
+
   - [[Code](https://github.com/rofuyu/exp-trmf-nips16)]
-  
+
 ### Comparative: Classical methods vs Deep Learning methods
 
 - [Forecasting economic and financial time series: ARIMA VS. LSTM](https://arxiv.org/pdf/1803.06386.pdf)
@@ -151,8 +151,8 @@ List of state of the art papers focus on deep learning. Classic methods vs Deep 
 ## Conferences
 
 - Machine learning
-   * [NeurIPS](https://nips.cc/) 
-   * [ICML](https://icml.cc/) 
+   * [NeurIPS](https://nips.cc/)
+   * [ICML](https://icml.cc/)
    * [ICLR](https://iclr.cc/)
 
 - Artificial intelligence
@@ -196,7 +196,7 @@ List of state of the art papers focus on deep learning. Classic methods vs Deep 
 
 - https://www.kaggle.com/c/recruit-restaurant-visitor-forecasting
 
-- [Predicting/hypothesizing the findings of the M4 Competition (https://www.sciencedirect.com/science/article/pii/S0169207019301098)
+- [Predicting/hypothesizing the findings of the M4 Competition](https://www.sciencedirect.com/science/article/pii/S0169207019301098)
 
 ## Datasets
 
