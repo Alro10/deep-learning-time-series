@@ -22,6 +22,10 @@ List of state of the art papers focus on deep learning. Classic methods vs Deep 
   - Yunkai Zhang, et al.
   - Code not yet
 
+  <p align="center">
+  <img src="https://github.com/Alro10/deep-learning-time-series/blob/master/YMN_order.png" alt="alt text" width="80%" height="60%">
+  </p>
+
 - [Dynamic Local Regret for Non-convex Online Forecasting](https://arxiv.org/pdf/1910.07927.pdf)`NeurIPS 2019`
 
   - Sergul Aydore, et al.
