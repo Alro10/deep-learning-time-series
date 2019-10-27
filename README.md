@@ -19,8 +19,8 @@ List of state of the art papers focus on deep learning. Classic methods vs Deep 
 
 - [You May Not Need Order in Time Series Forecasting](https://arxiv.org/pdf/1910.09620.pdf)
 
- - Yunkai Zhang, et al.
- - Code not yet
+  - Yunkai Zhang, et al.
+  - Code not yet
 
 - [Dynamic Local Regret for Non-convex Online Forecasting](https://arxiv.org/pdf/1910.07927.pdf)`NeurIPS 2019`
 
