@@ -17,6 +17,11 @@ List of state of the art papers focus on deep learning. Classic methods vs Deep 
 
 ### 2019
 
+- [Factorized Inference in Deep Markov Models for Incomplete Multimodal Time Series](https://arxiv.org/pdf/1905.13570v1.pdf)
+
+  - Zhi-Xuan Tan, et al.
+  - Code not yet.
+
 - [You May Not Need Order in Time Series Forecasting](https://arxiv.org/pdf/1910.09620.pdf)
 
   - Yunkai Zhang, et al.
