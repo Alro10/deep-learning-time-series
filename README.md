@@ -10,7 +10,7 @@ List of state of the art papers focus on deep learning. Classic methods vs Deep 
 * [Conferences](#Conferences)
 * [Code](#Code)
 * [Theory-Resource](#Theory-Resource)
-* [Code Resources](#Code-Resources)
+* [Code Resource](#Code-Resource)
 * [Datasets](#Datasets)
 
 
