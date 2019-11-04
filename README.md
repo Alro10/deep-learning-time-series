@@ -9,6 +9,7 @@ List of state of the art papers focus on deep learning. Classic methods vs Deep 
 * [Papers](#Papers)
 * [Conferences](#Conferences)
 * [Code](#Code)
+* [Theory-Resource](#Theory-Resource)
 * [Code Resources](#Code-Resources)
 * [Datasets](#Datasets)
 
@@ -184,6 +185,8 @@ List of state of the art papers focus on deep learning. Classic methods vs Deep 
 - [Time Series Analysis with Deep Learning : Simplified](https://towardsdatascience.com/time-series-analysis-with-deep-learning-simplified-5c444315d773)
 
 ## Code-Resource
+
+- [Using attentive neural processes for forecasting power usage](https://github.com/wassname/attentive-neural-processes)
 
 - [Non-Gaussian forecasting using fable - R](https://robjhyndman.com/hyndsight/fable2/)
 
