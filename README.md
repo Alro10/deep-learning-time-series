@@ -56,6 +56,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
   - David Salinas, et al.
   - Code not yet
+  
+ - [Recurrent Neural Filters: Learning Independent Bayesian Filtering Steps for Time Series Prediction](https://arxiv.org/pdf/1901.08096.pdf)
+ 
+  - Bryan Lim, et al.
+  - Code not yet
 
 - [Self-boosted Time-series Forecasting with Multi-task and Multi-view Learning](https://arxiv.org/pdf/1909.08181.pdf) `AAAI 2020`
 
