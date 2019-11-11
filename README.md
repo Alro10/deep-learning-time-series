@@ -18,6 +18,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2019
 
+- [Unsupervised Scalable Representation Learning for Multivariate Time Series](https://arxiv.org/abs/1901.10738)`NeurIPS 2019:In Applications -- Time Series Analysis`
+
+  - Jean-Yves Franceschi, et al.
+  - [[Code](https://github.com/White-Link/UnsupervisedScalableRepresentationLearningTimeSeries)]
+
 - [Factorized Inference in Deep Markov Models for Incomplete Multimodal Time Series](https://arxiv.org/pdf/1905.13570v1.pdf)
 
   - Zhi-Xuan Tan, et al.
