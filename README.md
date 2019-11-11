@@ -18,7 +18,7 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2019
 
-- [Unsupervised Scalable Representation Learning for Multivariate Time Series](https://arxiv.org/abs/1901.10738)`NeurIPS 2019:  [In Applications -- Time Series Analysis ](https://nips.cc/Conferences/2019/Schedule?showParentSession=15627)`
+- [Unsupervised Scalable Representation Learning for Multivariate Time Series](https://arxiv.org/abs/1901.10738)`NeurIPS 2019`  [In Applications -- Time Series Analysis ](https://nips.cc/Conferences/2019/Schedule?showParentSession=15627)
 
   - Jean-Yves Franceschi, et al.
   - [[Code](https://github.com/White-Link/UnsupervisedScalableRepresentationLearningTimeSeries)]
