@@ -194,6 +194,8 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 - [Time Series Analysis with Deep Learning : Simplified](https://towardsdatascience.com/time-series-analysis-with-deep-learning-simplified-5c444315d773)
 
+- [ML techniques applied to stock prices](https://towardsdatascience.com/machine-learning-techniques-applied-to-stock-price-prediction-6c1994da8001)
+
 ## Code-Resource
 
 - [Using attentive neural processes for forecasting power usage](https://github.com/wassname/attentive-neural-processes)
