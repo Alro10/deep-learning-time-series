@@ -137,6 +137,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2018
 
+- [Precision and Recall for Time Series](http://papers.nips.cc/paper/7462-precision-and-recall-for-time-series) `NeurIPS2018`
+
+  - Nesime Tatbul, et al.
+  - Code not yet.
+  
 - [Deep State Space Models for Time Series Forecasting](https://papers.nips.cc/paper/8004-deep-state-space-models-for-time-series-forecasting.pdf) `NeurIPS2018`
 
   - Code not yet
