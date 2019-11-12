@@ -18,6 +18,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2019
 
+- [SOM-VAE: Interpretable Discrete Representation Learning on Time Series](https://openreview.net/pdf?id=rygjcsR9Y7)`ICLR 2019`
+
+  - Vincent Fortuin, et al.
+  - [[Code](https://github.com/ratschlab/SOM-VAE)]
+
 - [Unsupervised Scalable Representation Learning for Multivariate Time Series](https://arxiv.org/abs/1901.10738)`NeurIPS 2019`  [In Applications -- Time Series Analysis ](https://nips.cc/Conferences/2019/Schedule?showParentSession=15627)
 
   - Jean-Yves Franceschi, et al.
