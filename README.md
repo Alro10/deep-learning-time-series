@@ -144,13 +144,13 @@ List of state of the art papers focus on deep learning and resources, code and e
 - [Deep Factors with Gaussian Processes for Forecasting](https://arxiv.org/abs/1812.00098)`Third workshop on Bayesian Deep Learning (NeurIPS 2018)`
 
   - [[Code](https://aws.amazon.com/blogs/machine-learning/now-available-in-amazon-sagemaker-deepar-algorithm-for-more-accurate-time-series-forecasting/)]
-
-### 2017
-
-- [DIFFUSION CONVOLUTIONAL RECURRENT NEURAL NETWORK: DATA-DRIVEN TRAFFIC FORECASTING](https://arxiv.org/pdf/1707.01926.pdf)`ICLR 2019`
+  
+  - [DIFFUSION CONVOLUTIONAL RECURRENT NEURAL NETWORK: DATA-DRIVEN TRAFFIC FORECASTING](https://arxiv.org/pdf/1707.01926.pdf)`ICLR 2018`
 
   - Yaguang Li, et al.
   - [[Code](https://github.com/liyaguang/DCRNN)]
+
+### 2017
 
 
 ### 2016
