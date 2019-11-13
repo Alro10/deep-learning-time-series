@@ -200,6 +200,8 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ## Theory-Resource
 
+- [Deep Learning AI-Optimization](https://deeplearning.ai/ai-notes/optimization/)
+
 - [Backpropagation for LSTM](https://towardsdatascience.com/back-to-basics-deriving-back-propagation-on-simple-rnn-lstm-feat-aidan-gomez-c7f286ba973d)
 
 - [Stock Market Prediction by Recurrent Neural Network on LSTM Model](https://blog.usejournal.com/stock-market-prediction-by-recurrent-neural-network-on-lstm-model-56de700bff68)
