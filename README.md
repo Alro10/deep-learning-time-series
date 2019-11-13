@@ -42,6 +42,16 @@ List of state of the art papers focus on deep learning and resources, code and e
   <img src="https://github.com/Alro10/deep-learning-time-series/blob/master/YMN_order.png" alt="alt text" width="80%" height="60%">
   </p>
 
+- [Self-boosted Time-series Forecasting with Multi-task and Multi-view Learning](https://arxiv.org/pdf/1909.08181.pdf) `AAAI 2020`
+
+  - Long H. Nguyen, et al.
+  - Code not yet
+
+- [Shape and Time Distortion Loss for Training Deep Time Series Forecasting Models](https://arxiv.org/pdf/1909.09020.pdf)`NeurIPS2019`
+
+  - Vincent Le Guen and Nicolas Thome.
+  - [[Code](https://github.com/vincent-leguen/STDL)]
+  
 - [Dynamic Local Regret for Non-convex Online Forecasting](https://arxiv.org/pdf/1910.07927.pdf)`NeurIPS 2019`
 
   - Sergul Aydore, et al.
@@ -71,17 +81,6 @@ List of state of the art papers focus on deep learning and resources, code and e
  
   - Bryan Lim, et al.
   - Code not yet
-
-- [Self-boosted Time-series Forecasting with Multi-task and Multi-view Learning](https://arxiv.org/pdf/1909.08181.pdf) `AAAI 2020`
-
-  - Long H. Nguyen, et al.
-  - Code not yet
-
-- [Shape and Time Distortion Loss for Training Deep Time Series Forecasting Models](https://arxiv.org/pdf/1909.09020.pdf)`NeurIPS2019`
-
-  - Vincent Le Guen and Nicolas Thome.
-  - [[Code](https://github.com/vincent-leguen/STDL)]
-
 
 - [SKTIME: A UNIFIED INTERFACE FOR MACHINE LEARNING WITH TIME SERIE](https://arxiv.org/pdf/1909.07872.pdf)
 
