@@ -81,6 +81,11 @@ List of state of the art papers focus on deep learning and resources, code and e
  
   - Bryan Lim, et al.
   - Code not yet
+  
+- [LHCnn: A Novel Efficient Multivariate Time Series Prediction Framework Utilizing Convolutional Neural Networks](https://ieeexplore.ieee.org/abstract/document/8855402)
+
+  - Chengxi Liu, et al.
+  - Code not yet
 
 - [SKTIME: A UNIFIED INTERFACE FOR MACHINE LEARNING WITH TIME SERIE](https://arxiv.org/pdf/1909.07872.pdf)
 
