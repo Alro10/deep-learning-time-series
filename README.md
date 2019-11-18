@@ -200,6 +200,8 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ## Theory-Resource
 
+- [Deep learning for high dimensional time series-blog](https://towardsdatascience.com/deep-learning-for-high-dimensional-time-series-7a72b033a7e0)
+
 - [Deep Learning AI-Optimization](https://deeplearning.ai/ai-notes/optimization/)
 
 - [Backpropagation for LSTM](https://towardsdatascience.com/back-to-basics-deriving-back-propagation-on-simple-rnn-lstm-feat-aidan-gomez-c7f286ba973d)
