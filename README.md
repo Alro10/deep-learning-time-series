@@ -18,6 +18,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2019
 
+- [Constructing Gradient Controllable Recurrent Neural Networks Using Hamiltonian Dynamics (https://arxiv.org/pdf/1911.05035.pdf)
+
+  - Konstantin Rusch, et al.
+  - Code not yet.
+
 - [SOM-VAE: Interpretable Discrete Representation Learning on Time Series](https://openreview.net/pdf?id=rygjcsR9Y7)`ICLR 2019`
 
   - Vincent Fortuin, et al.
