@@ -18,6 +18,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2019
 
+- [RobustSTL: A Robust Seasonal-Trend Decomposition Algorithm for Long Time Series](https://arxiv.org/abs/1812.01767)
+
+  - Qingsong Wen, et al.
+  - [[Code](https://github.com/LeeDoYup/RobustSTL)]
+
 - [Constructing Gradient Controllable Recurrent Neural Networks Using Hamiltonian Dynamics](https://arxiv.org/pdf/1911.05035.pdf)
 
   - Konstantin Rusch, et al.
