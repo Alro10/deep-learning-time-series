@@ -18,7 +18,7 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2019
 
-- [Constructing Gradient Controllable Recurrent Neural Networks Using Hamiltonian Dynamics (https://arxiv.org/pdf/1911.05035.pdf)
+- [Constructing Gradient Controllable Recurrent Neural Networks Using Hamiltonian Dynamics](https://arxiv.org/pdf/1911.05035.pdf)
 
   - Konstantin Rusch, et al.
   - Code not yet.
