@@ -18,6 +18,12 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2019
 
+- [Learning Time-series Data of Industrial Design Optimization using Recurrent Neural Networks](https://ecole-itn.eu/wp-content/uploads/2019/11/LMID_Sneha_finalversion.pdf)
+
+  - Sneha Saha, et al.
+  - Honda Research Institute Europe GmbH
+  
+
 - [RobustSTL: A Robust Seasonal-Trend Decomposition Algorithm for Long Time Series](https://arxiv.org/abs/1812.01767)
 
   - Qingsong Wen, et al.
