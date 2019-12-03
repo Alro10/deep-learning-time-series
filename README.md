@@ -22,7 +22,7 @@ List of state of the art papers focus on deep learning and resources, code and e
 
   - Sneha Saha, et al.
   - Honda Research Institute Europe GmbH
-  
+
 
 - [RobustSTL: A Robust Seasonal-Trend Decomposition Algorithm for Long Time Series](https://arxiv.org/abs/1812.01767)
 
@@ -67,7 +67,7 @@ List of state of the art papers focus on deep learning and resources, code and e
 
   - Vincent Le Guen and Nicolas Thome.
   - [[Code](https://github.com/vincent-leguen/STDL)]
-  
+
 - [Dynamic Local Regret for Non-convex Online Forecasting](https://arxiv.org/pdf/1910.07927.pdf)`NeurIPS 2019`
 
   - Sergul Aydore, et al.
@@ -92,12 +92,12 @@ List of state of the art papers focus on deep learning and resources, code and e
 
   - David Salinas, et al.
   - Code not yet
-  
+
 - [Recurrent Neural Filters: Learning Independent Bayesian Filtering Steps for Time Series Prediction](https://arxiv.org/pdf/1901.08096.pdf)
- 
+
   - Bryan Lim, et al.
   - Code not yet
-  
+
 - [LHCnn: A Novel Efficient Multivariate Time Series Prediction Framework Utilizing Convolutional Neural Networks](https://ieeexplore.ieee.org/abstract/document/8855402)
 
   - Chengxi Liu, et al.
@@ -166,7 +166,7 @@ List of state of the art papers focus on deep learning and resources, code and e
 
   - Nesime Tatbul, et al.
   - Code not yet.
-  
+
 - [Deep State Space Models for Time Series Forecasting](https://papers.nips.cc/paper/8004-deep-state-space-models-for-time-series-forecasting.pdf) `NeurIPS2018`
 
   - Code not yet
@@ -174,11 +174,16 @@ List of state of the art papers focus on deep learning and resources, code and e
 - [Deep Factors with Gaussian Processes for Forecasting](https://arxiv.org/abs/1812.00098)`Third workshop on Bayesian Deep Learning (NeurIPS 2018)`
 
   - [[Code](https://aws.amazon.com/blogs/machine-learning/now-available-in-amazon-sagemaker-deepar-algorithm-for-more-accurate-time-series-forecasting/)]
-  
+
 - [DIFFUSION CONVOLUTIONAL RECURRENT NEURAL NETWORK: DATA-DRIVEN TRAFFIC FORECASTING](https://arxiv.org/pdf/1707.01926.pdf)`ICLR 2018`
 
   - Yaguang Li, et al.
   - [[Code](https://github.com/liyaguang/DCRNN)]
+
+- [DEEP TEMPORAL CLUSTERING: FULLY UNSUPERVISED LEARNING OF TIME-DOMAIN FEATURES](https://arxiv.org/pdf/1802.01059.pdf)
+
+  - Naveen Sai Madiraju, et al.
+  - [[Code-unofficial implementation ](https://github.com/FlorentF9/DeepTemporalClustering)]
 
 ### 2017
 
