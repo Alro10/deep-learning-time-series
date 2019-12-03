@@ -21,13 +21,13 @@ List of state of the art papers focus on deep learning and resources, code and e
 - [AR-Net: A simple Auto-Regressive Neural Network for time-series](https://arxiv.org/abs/1911.12436)
 
   - Oskar Triebe, et al.
-  -  ```from Facebook Research```
+  -  ```Facebook Research```
   - Not yet.
 
 - [Learning Time-series Data of Industrial Design Optimization using Recurrent Neural Networks](https://ecole-itn.eu/wp-content/uploads/2019/11/LMID_Sneha_finalversion.pdf)
 
   - Sneha Saha, et al.
-  - Honda Research Institute Europe GmbH
+  - ```Honda Research Institute Europe GmbH```
 
 
 - [RobustSTL: A Robust Seasonal-Trend Decomposition Algorithm for Long Time Series](https://arxiv.org/abs/1812.01767)
