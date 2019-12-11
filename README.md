@@ -18,6 +18,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2019
 
+- [Deep Physiological State Space Model for Clinical Forecasting](https://arxiv.org/pdf/1912.01762.pdf)
+
+  - Yuan Xue, et al.
+  - not yet
+
 - [AR-Net: A simple Auto-Regressive Neural Network for time-series](https://arxiv.org/abs/1911.12436)
 
   - Oskar Triebe, et al.
