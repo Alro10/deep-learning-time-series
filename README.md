@@ -18,6 +18,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2019
 
+- [Deep Amortized Variational Inference for Multivariate Time Series Imputation with Latent Gaussian Process Models](https://openreview.net/pdf?id=H1xXYy3VKr)
+
+  - Vincent Fortuin, et al.
+  - Code not yet.
+
 - [Deep Physiological State Space Model for Clinical Forecasting](https://arxiv.org/pdf/1912.01762.pdf)
 
   - Yuan Xue, et al.
