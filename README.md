@@ -204,6 +204,10 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2017
 
+- [Discriminative State-Space Models](https://papers.nips.cc/paper/7150-discriminative-state-space-models.pdf)`NIPS 2017`
+
+  - Vitaly Kuznetsov and Mehryar Mohri.
+  - Code not yet.
 
 ### 2016
 
