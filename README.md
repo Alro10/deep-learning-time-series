@@ -215,6 +215,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
   - [[Code](https://github.com/rofuyu/exp-trmf-nips16)]
 
+- [Time Series Prediction and Online Learning](http://proceedings.mlr.press/v49/kuznetsov16.pdf)`JMLR 2016`
+
+  - Vitaly Kuznetsov and Mehryar Mohri.
+  - Code not yet.
+
 ### Comparative: Classical methods vs Deep Learning methods
 
 - [Forecasting economic and financial time series: ARIMA VS. LSTM](https://arxiv.org/pdf/1803.06386.pdf)
