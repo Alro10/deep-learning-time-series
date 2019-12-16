@@ -245,6 +245,8 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ## Code
 
+- [Notebooks](https://github.com/Alro10/deep-learning-time-series/tree/master/notebooks)
+
 ## Theory-Resource
 
 - [Deep learning for high dimensional time series-blog](https://towardsdatascience.com/deep-learning-for-high-dimensional-time-series-7a72b033a7e0)
