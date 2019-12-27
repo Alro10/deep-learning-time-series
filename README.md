@@ -1,4 +1,4 @@
-# Deep learning time series Forecasting
+# Deep Learning Time Series Forecasting
 [![PRsWelcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 
