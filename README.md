@@ -18,11 +18,12 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2019
 
--[Temporal Fusion Transformers for Interpretable Multi-horizon Time Series Forecasting](https://arxiv.org/pdf/1912.09363.pdf)
+- [Temporal Fusion Transformers for Interpretable Multi-horizon Time Series Forecasting](https://arxiv.org/pdf/1912.09363.pdf)
 
   - Bryan Lim, et al.
-  - [[Code](https://github.com/google-research/google-research/tree/master/tft)]
   - ```Google Research```
+  - [[Code](https://github.com/google-research/google-research/tree/master/tft)]
+
 
 - [Deep Amortized Variational Inference for Multivariate Time Series Imputation with Latent Gaussian Process Models](https://openreview.net/pdf?id=H1xXYy3VKr)
 
