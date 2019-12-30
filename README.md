@@ -18,6 +18,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2019
 
+- [Time-series Generative Adversarial Networks](https://papers.nips.cc/paper/8789-time-series-generative-adversarial-networks.pdf)`NeurIPS 2019` 
+
+  - Jinsung Yoon. et al.
+  - Code not yet.
+
 - [Temporal Fusion Transformers for Interpretable Multi-horizon Time Series Forecasting](https://arxiv.org/pdf/1912.09363.pdf)
 
   - Bryan Lim, et al.
