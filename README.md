@@ -18,6 +18,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2019
 
+- [DYNAMIC TIME LAG REGRESSION: PREDICTING WHAT & WHEN](https://hal.inria.fr/hal-02422148/document)
+
+  - Mandar Chandorkar, et al.
+  - Code not yet.
+
 - [Time-series Generative Adversarial Networks](https://papers.nips.cc/paper/8789-time-series-generative-adversarial-networks.pdf)`NeurIPS 2019` 
 
   - Jinsung Yoon. et al.
