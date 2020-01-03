@@ -18,6 +18,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2019
 
+- [Enhancing Time Series Momentum Strategies Using Deep Neural Networks](https://arxiv.org/pdf/1904.04912.pdf)
+
+  - Bryan Lim, et al.
+  - Code not yet.
+
 - [DYNAMIC TIME LAG REGRESSION: PREDICTING WHAT & WHEN](https://hal.inria.fr/hal-02422148/document)
 
   - Mandar Chandorkar, et al.
