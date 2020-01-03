@@ -260,6 +260,9 @@ List of state of the art papers focus on deep learning and resources, code and e
    * [ICANN](https://e-nns.org/icann2019/)   
    * [IJCAI](https://www.ijcai.org/)
    * [UAI](http://www.auai.org/)
+  
+ - Competitions 
+    * [M5 Competition](https://mofc.unic.ac.cy/m5-competition/)
 
 ## Code
 
