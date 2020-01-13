@@ -292,6 +292,8 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ## Code-Resource
 
+- [pyts: a Python package for time series classification](https://github.com/johannfaouzi/pyts)
+
 - [Using attentive neural processes for forecasting power usage](https://github.com/wassname/attentive-neural-processes)
 
 - [Non-Gaussian forecasting using fable - R](https://robjhyndman.com/hyndsight/fable2/)
