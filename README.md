@@ -201,6 +201,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2018
 
+- [Attend and Diagnose: Clinical Time Series Analysis Using Attention Models](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/16325/16790) `AAAI 2018`
+
+  - Huan Song, Deepta Rajan, et al.
+  - not yet.
+
 - [Precision and Recall for Time Series](http://papers.nips.cc/paper/7462-precision-and-recall-for-time-series) `NeurIPS2018`
 
   - Nesime Tatbul, et al.
