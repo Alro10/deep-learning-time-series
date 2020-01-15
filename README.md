@@ -28,7 +28,7 @@ List of state of the art papers focus on deep learning and resources, code and e
   - Mandar Chandorkar, et al.
   - Code not yet.
 
-- [Time-series Generative Adversarial Networks](https://papers.nips.cc/paper/8789-time-series-generative-adversarial-networks.pdf)`NeurIPS 2019` 
+- [Time-series Generative Adversarial Networks](https://papers.nips.cc/paper/8789-time-series-generative-adversarial-networks.pdf)`NeurIPS 2019`
 
   - Jinsung Yoon. et al.
   - Code not yet.
@@ -265,8 +265,8 @@ List of state of the art papers focus on deep learning and resources, code and e
    * [ICANN](https://e-nns.org/icann2019/)   
    * [IJCAI](https://www.ijcai.org/)
    * [UAI](http://www.auai.org/)
-  
- - Competitions 
+
+ - Competitions
     * [M5 Competition](https://mofc.unic.ac.cy/m5-competition/)
 
 ## Code
@@ -291,6 +291,8 @@ List of state of the art papers focus on deep learning and resources, code and e
 - [ML techniques applied to stock prices](https://towardsdatascience.com/machine-learning-techniques-applied-to-stock-price-prediction-6c1994da8001)
 
 ## Code-Resource
+
+- [Prophet: Automatic Forecasting Procedure](https://github.com/facebook/prophet)
 
 - [pyts: a Python package for time series classification](https://github.com/johannfaouzi/pyts)
 
