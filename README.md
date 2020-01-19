@@ -18,6 +18,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2019
 
+- [RELATIONAL STATE-SPACE MODEL FOR STOCHASTIC MULTI-OBJECT SYSTEMS](https://arxiv.org/pdf/2001.04050.pdf)```ICLR 2020```
+
+  - Fan Yang, et al.
+  - Code not yet.
+
 - [For2For: Learning to forecast from forecasts](https://arxiv.org/pdf/2001.04601.pdf)
 
   - Zhao, Shi, et al.
