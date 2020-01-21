@@ -307,6 +307,8 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ## Code-Resource
 
+- [TSstudio: Tools for time series analysis and forecasting ](https://github.com/RamiKrispin/TSstudio)
+
 - [Prophet: Automatic Forecasting Procedure](https://github.com/facebook/prophet)
 
 - [pyts: a Python package for time series classification](https://github.com/johannfaouzi/pyts)
