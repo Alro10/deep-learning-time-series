@@ -18,7 +18,7 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2019
 
-- [Tensorized LSTM with Adaptive Shared Memory for Learning Trends in Multivariate Time Series](https://faculty.ist.psu.edu/xzz89/publications/AAAI20.pdf)
+- [Tensorized LSTM with Adaptive Shared Memory for Learning Trends in Multivariate Time Series](https://faculty.ist.psu.edu/xzz89/publications/AAAI20.pdf)```AAAI 2020```
 
   - Dongkuan Xu, et al.
   - [[Code](https://github.com/DerronXu/DeepTrends/tree/master)]
