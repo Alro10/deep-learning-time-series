@@ -16,7 +16,7 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ## Papers
 
-### 2019
+### 2020
 
 - [Tensorized LSTM with Adaptive Shared Memory for Learning Trends in Multivariate Time Series](https://faculty.ist.psu.edu/xzz89/publications/AAAI20.pdf)```AAAI 2020```
 
@@ -32,6 +32,8 @@ List of state of the art papers focus on deep learning and resources, code and e
 
   - Zhao, Shi, et al.
   - Code not yet.
+  
+### 2019
 
 - [Enhancing Time Series Momentum Strategies Using Deep Neural Networks](https://arxiv.org/pdf/1904.04912.pdf)
 
