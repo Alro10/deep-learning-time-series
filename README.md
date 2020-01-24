@@ -35,6 +35,11 @@ List of state of the art papers focus on deep learning and resources, code and e
   
 ### 2019
 
+- [DSANet: Dual Self-Attention Network for Multivariate Time Series Forecasting] (https://dl.acm.org/doi/abs/10.1145/3357384.3358132)
+
+  - Siteng Huang, et al.
+  - Code not yet.
+
 - [Enhancing Time Series Momentum Strategies Using Deep Neural Networks](https://arxiv.org/pdf/1904.04912.pdf)
 
   - Bryan Lim, et al.
