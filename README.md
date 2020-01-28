@@ -32,7 +32,7 @@ List of state of the art papers focus on deep learning and resources, code and e
 
   - Zhao, Shi, et al.
   - Code not yet.
-  
+
 ### 2019
 
 - [DSANet: Dual Self-Attention Network for Multivariate Time Series Forecasting](https://dl.acm.org/doi/abs/10.1145/3357384.3358132)
@@ -318,6 +318,8 @@ List of state of the art papers focus on deep learning and resources, code and e
 - [ML techniques applied to stock prices](https://towardsdatascience.com/machine-learning-techniques-applied-to-stock-price-prediction-6c1994da8001)
 
 ## Code-Resource
+
+- [TimescaleDB](https://github.com/timescale/timescaledb): An open-source time-series SQL database optimized for fast ingest and complex queries. Packaged as a PostgreSQL extension.
 
 - [TSstudio: Tools for time series analysis and forecasting ](https://github.com/RamiKrispin/TSstudio)
 
