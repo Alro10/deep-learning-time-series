@@ -319,6 +319,8 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ## Code-Resource
 
+- [Time Series and Forecasting in R](https://github.com/rstudio-conf-2020/time-series-forecasting)
+
 - [TimeseriesAI](https://github.com/timeseriesAI/timeseriesAI): Practical Deep Learning for Time Series / Sequential Data using fastai/ Pytorch.
 
 - [TimescaleDB](https://github.com/timescale/timescaledb): An open-source time-series SQL database optimized for fast ingest and complex queries. Packaged as a PostgreSQL extension.
