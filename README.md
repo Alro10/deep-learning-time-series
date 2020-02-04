@@ -18,6 +18,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
+- [Forecasting Multivariate Time-Series Data Using LSTM and Mini-Batches](https://rd.springer.com/chapter/10.1007/978-3-030-37309-2_10)
+
+  - Athar Khodabakhsh, et al.
+  - Code not yet.
+
 - [Tensorized LSTM with Adaptive Shared Memory for Learning Trends in Multivariate Time Series](https://faculty.ist.psu.edu/xzz89/publications/AAAI20.pdf)```AAAI 2020```
 
   - Dongkuan Xu, et al.
