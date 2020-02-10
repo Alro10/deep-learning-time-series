@@ -18,6 +18,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
+- [Evolutionary LSTM-FCN networks for pattern classification in industrial processes](https://www.sciencedirect.com/science/article/abs/pii/S2210650219301270)
+
+  - Patxi Ortego, et al.
+  - Code not yet.
+
 - [Forecasting Multivariate Time-Series Data Using LSTM and Mini-Batches](https://rd.springer.com/chapter/10.1007/978-3-030-37309-2_10)
 
   - Athar Khodabakhsh, et al.
