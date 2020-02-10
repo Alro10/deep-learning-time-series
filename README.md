@@ -56,6 +56,12 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2019
 
+- [Similarity Preserving Representation Learning for Time Series Clustering](https://arxiv.org/pdf/1702.03584.pdf)
+
+  - Qi Lei, et al.
+  - ```IBM research```
+  - [[Code](https://github.com/cecilialeiqi/SPIRAL)]
+  
 - [DSANet: Dual Self-Attention Network for Multivariate Time Series Forecasting](https://dl.acm.org/doi/abs/10.1145/3357384.3358132)
 
   - Siteng Huang, et al.
