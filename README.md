@@ -18,7 +18,7 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
-- [Joint Modeling of Local and Global Temporal Dynamics for Multivariate Time Series Forecasting with Missing Values](https://arxiv.org/pdf/1911.10273.pdf)
+- [Joint Modeling of Local and Global Temporal Dynamics for Multivariate Time Series Forecasting with Missing Values](https://arxiv.org/pdf/1911.10273.pdf)```AAAI 2020```
 
   - Xianfeng Tang, et al.
   - Code not yet.
@@ -200,7 +200,8 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 - [Explainable Deep Neural Networks for Multivariate Time Series Predictions](https://www.ijcai.org/proceedings/2019/0932.pdf) `IJCAI 2019`
 
-  - Roy Assaf and Anika Schumann. IBM Research, Zurich
+  - Roy Assaf and Anika Schumann.
+  - ```IBM Research, Zurich```
   - Code not yet
 
 
