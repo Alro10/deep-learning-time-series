@@ -21,6 +21,7 @@ List of state of the art papers focus on deep learning and resources, code and e
 - [Event-Driven Continuous Time Bayesian Networks](https://krvarshney.github.io/pubs/BhattacharjyaSGMVS_aaai2020.pdf)
 
   - Debarun Bhattacharjya, et al.
+  - `Research AI, IBM`
   - Code not yet.
 
 - [Joint Modeling of Local and Global Temporal Dynamics for Multivariate Time Series Forecasting with Missing Values](https://arxiv.org/pdf/1911.10273.pdf)```AAAI 2020```
