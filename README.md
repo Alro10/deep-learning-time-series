@@ -18,6 +18,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
+- [Joint Modeling of Local and Global Temporal Dynamics for Multivariate Time Series Forecasting with Missing Values](https://arxiv.org/pdf/1911.10273.pdf)
+
+  - Xianfeng Tang, et al.
+  - Code not yet.
+
 - [Topology-Based Clusterwise Regression for User Segmentation and Demand Forecasting](https://ieeexplore.ieee.org/abstract/document/8964133)
 
   - Rodrigo Rivera-Castro, et al.
