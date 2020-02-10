@@ -18,6 +18,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
+- [Topology-Based Clusterwise Regression for User Segmentation and Demand Forecasting](https://ieeexplore.ieee.org/abstract/document/8964133)
+
+  - Rodrigo Rivera-Castro, et al.
+  - Code not yet.
+
 - [Evolutionary LSTM-FCN networks for pattern classification in industrial processes](https://www.sciencedirect.com/science/article/abs/pii/S2210650219301270)
 
   - Patxi Ortego, et al.
