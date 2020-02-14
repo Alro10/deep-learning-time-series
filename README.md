@@ -18,7 +18,7 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
-- [Anomaly detection for Cybersecurity: time series forecasting and deep learning](https://pdfs.semanticscholar.org/810b/dfa0f63f03473be79556b90dc79a88a1f769.pdf)
+- [Anomaly detection for Cybersecurity: time series forecasting and deep learning](https://pdfs.semanticscholar.org/810b/dfa0f63f03473be79556b90dc79a88a1f769.pdf)`Good review about forecasting`
 
   - Giordano Colò.
   - Code not yet.
