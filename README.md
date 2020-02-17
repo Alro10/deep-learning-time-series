@@ -18,6 +18,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
+- [ForecastNet: A Time-Variant Deep Feed-Forward Neural Network Architecture for Multi-Step-Ahead Time-Series Forecasting](https://arxiv.org/pdf/2002.04155.pdf)
+
+  - Joel Janek Dabrowski, et al.
+  - Code not yet.
+
 - [Anomaly detection for Cybersecurity: time series forecasting and deep learning](https://pdfs.semanticscholar.org/810b/dfa0f63f03473be79556b90dc79a88a1f769.pdf)`Good review about forecasting`
 
   - Giordano Colò.
