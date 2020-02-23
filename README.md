@@ -18,6 +18,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
+- [Multi-variate Probabilistic Time Series Forecasting via Conditioned Normalizing Flows](https://arxiv.org/pdf/2002.06103.pdf)
+
+  - Kashif Rasul, et al.
+  - Code not yet.
+
 - [ForecastNet: A Time-Variant Deep Feed-Forward Neural Network Architecture for Multi-Step-Ahead Time-Series Forecasting](https://arxiv.org/pdf/2002.04155.pdf)
 
   - Joel Janek Dabrowski, et al.
