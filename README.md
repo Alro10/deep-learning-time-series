@@ -18,6 +18,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
+- [An Industry Case of Large-Scale Demand Forecasting of Hierarchical Components](https://ieeexplore.ieee.org/abstract/document/8999262)
+
+  - Rodrigo Rivera-Castro, et al.
+  - Code not yet.
+
 - [Multi-variate Probabilistic Time Series Forecasting via Conditioned Normalizing Flows](https://arxiv.org/pdf/2002.06103.pdf)
 
   - Kashif Rasul, et al.
