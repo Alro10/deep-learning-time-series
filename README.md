@@ -18,6 +18,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
+- [Learnings from Kaggle's Forecasting Competitions](https://www.researchgate.net/publication/339362837_Learnings_from_Kaggle's_Forecasting_Competitions)
+
+  - Casper Solheim Bojer, et al.
+  - Code not yet.
+
 - [An Industry Case of Large-Scale Demand Forecasting of Hierarchical Components](https://ieeexplore.ieee.org/abstract/document/8999262)
 
   - Rodrigo Rivera-Castro, et al.
