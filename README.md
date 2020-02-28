@@ -18,73 +18,62 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
-- [Block Hankel Tensor ARIMA for Multiple Short Time Series Forecasting](https://github.com/huawei-noah/BHT-ARIMA)```AAAI 2020```
-
-  - QIQUAN SHI, et al.
+- [Harmonic Recurrent Process for Time Series Forecasting](https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/ecai20hr.pdf)
+- Shao-Qun Zhang and Zhi-Hua Zhou.
+  - Code not yet.
+- Block Hankel Tensor ARIMA for Multiple Short Time Series Forecasting](https://github.com/huawei-noah/BHT-ARIMA)```AAAI 2020```
+- QIQUAN SHI, et al.
   - [[Code](https://github.com/huawei-noah/BHT-ARIMA)]
-
 - [Learnings from Kaggle's Forecasting Competitions](https://www.researchgate.net/publication/339362837_Learnings_from_Kaggle's_Forecasting_Competitions)
 
   - Casper Solheim Bojer, et al.
   - Code not yet.
-
 - [An Industry Case of Large-Scale Demand Forecasting of Hierarchical Components](https://ieeexplore.ieee.org/abstract/document/8999262)
 
   - Rodrigo Rivera-Castro, et al.
   - Code not yet.
-
 - [Multi-variate Probabilistic Time Series Forecasting via Conditioned Normalizing Flows](https://arxiv.org/pdf/2002.06103.pdf)
 
   - Kashif Rasul, et al.
   - Code not yet.
-
 - [ForecastNet: A Time-Variant Deep Feed-Forward Neural Network Architecture for Multi-Step-Ahead Time-Series Forecasting](https://arxiv.org/pdf/2002.04155.pdf)
 
   - Joel Janek Dabrowski, et al.
   - Code not yet.
-
 - [Anomaly detection for Cybersecurity: time series forecasting and deep learning](https://pdfs.semanticscholar.org/810b/dfa0f63f03473be79556b90dc79a88a1f769.pdf)`Good review about forecasting`
 
   - Giordano Colò.
   - Code not yet.
-
 - [Event-Driven Continuous Time Bayesian Networks](https://krvarshney.github.io/pubs/BhattacharjyaSGMVS_aaai2020.pdf)
 
   - Debarun Bhattacharjya, et al.
   - `Research AI, IBM`
   - Code not yet.
-
 - [Joint Modeling of Local and Global Temporal Dynamics for Multivariate Time Series Forecasting with Missing Values](https://arxiv.org/pdf/1911.10273.pdf)```AAAI 2020```
 
   - Xianfeng Tang, et al.
   - ```IBM Research, NY```
   - Code not yet.
-
 - [Topology-Based Clusterwise Regression for User Segmentation and Demand Forecasting](https://ieeexplore.ieee.org/abstract/document/8964133)
 
   - Rodrigo Rivera-Castro, et al.
   - Code not yet.
-
 - [Evolutionary LSTM-FCN networks for pattern classification in industrial processes](https://www.sciencedirect.com/science/article/abs/pii/S2210650219301270)
 
   - Patxi Ortego, et al.
   - Code not yet.
-
 - [Forecasting Multivariate Time-Series Data Using LSTM and Mini-Batches](https://rd.springer.com/chapter/10.1007/978-3-030-37309-2_10)
 
   - Athar Khodabakhsh, et al.
   - Code not yet.
-
 - [Tensorized LSTM with Adaptive Shared Memory for Learning Trends in Multivariate Time Series](https://faculty.ist.psu.edu/xzz89/publications/AAAI20.pdf)```AAAI 2020```
 
   - Dongkuan Xu, et al.
   - [[Code](https://github.com/DerronXu/DeepTrends/tree/master)]
-
 - **[RELATIONAL STATE-SPACE MODEL FOR STOCHASTIC MULTI-OBJECT SYSTEMS](https://arxiv.org/pdf/2001.04050.pdf)**```ICLR 2020```
 
   - Fan Yang, et al.
   - Code not yet.
-
 - [For2For: Learning to forecast from forecasts](https://arxiv.org/pdf/2001.04601.pdf)
 
   - Zhao, Shi, et al.
