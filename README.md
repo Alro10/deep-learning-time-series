@@ -316,6 +316,11 @@ List of state of the art papers focus on deep learning and resources, code and e
   - Naveen Sai Madiraju, et al.
   - [[Code-unofficial implementation ](https://github.com/FlorentF9/DeepTemporalClustering)]
 
+- [Modeling Long- and Short-Term Temporal Patterns with Deep Neural Networks](https://arxiv.org/pdf/1703.07015.pdf)
+
+  - Guokun Lai, Wei-Cheng Chang, Yiming Yang, Hanxiao Liu
+  - [[Code](https://github.com/laiguokun/LSTNet)]
+
 ### 2017
 
 - [Discriminative State-Space Models](https://papers.nips.cc/paper/7150-discriminative-state-space-models.pdf)`NIPS 2017`
