@@ -2,12 +2,13 @@
 [![PRsWelcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 
-List of state of the art papers focus on deep learning and resources, code and experiments using deep learning for time series forecasting. Classic methods vs Deep Learning methods.
+List of state of the art papers focus on deep learning and resources, code and experiments using deep learning for time series forecasting. Classic methods vs Deep Learning methods, Competitions...
 
 ## [Table of Contents]()
 
 * [Papers](#Papers)
 * [Conferences](#Conferences)
+* [Competitions](#Competitions)
 * [Code](#Code)
 * [Theory-Resource](#Theory-Resource)
 * [Code Resource](#Code-Resource)
@@ -362,8 +363,9 @@ List of state of the art papers focus on deep learning and resources, code and e
    * [IJCAI](https://www.ijcai.org/)
    * [UAI](http://www.auai.org/)
 
- - Competitions
-    * [M5 Competition](https://mofc.unic.ac.cy/m5-competition/)
+## Competitions
+
+- [M5 Competition](https://mofc.unic.ac.cy/m5-competition/)
 
 ## Code
 
