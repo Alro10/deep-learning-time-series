@@ -19,6 +19,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
+- [Time Series Data Augmentation for Deep Learning: A Survey](https://arxiv.org/pdf/2002.12478.pdf)
+
+  - Qingsong Wen, et al.
+  - Code not yet.
+
 - [Block Hankel Tensor ARIMA for Multiple Short Time Series Forecasting](https://arxiv.org/pdf/2002.12135.pdf)```AAAI 2020```
 
   - QIQUAN SHI, et al.
