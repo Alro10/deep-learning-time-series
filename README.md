@@ -19,6 +19,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
+- [Elastic Machine Learning Algorithms in Amazon SageMaker](https://ssc.io/pdf/modin711s.pdf)
+
+  - Edo Liberty, et al.
+  - Code not yet.
+
 - [Time Series Data Augmentation for Deep Learning: A Survey](https://arxiv.org/pdf/2002.12478.pdf)
 
   - Qingsong Wen, et al.
