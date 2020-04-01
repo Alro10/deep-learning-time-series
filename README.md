@@ -19,6 +19,12 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
+- [G-Net: A Deep Learning Approach to G-computation for Counterfactual Outcome Prediction Under Dynamic Treatment Regimes](https://arxiv.org/pdf/2003.10551.pdf)
+
+  - Rui Li, et al.
+  - - ```IBM research and MIT```
+  - Code not yet.
+
 - [Deep Markov Spatio-Temporal Factorization](https://arxiv.org/pdf/2003.09779.pdf)
 
   - Amirreza Farnoosh, et al.
