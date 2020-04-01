@@ -19,6 +19,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
+- [Deep Markov Spatio-Temporal Factorization](https://arxiv.org/pdf/2003.09779.pdf)
+
+  - Amirreza Farnoosh, et al.
+  - Code not yet.
+
 - [Harmonic Recurrent Process for Time Series Forecasting](https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/ecai20hr.pdf)
 
   - Shao-Qun Zhang and Zhi-Hua Zhou.
