@@ -19,6 +19,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
+- [Financial Time Series Representation Learning](https://arxiv.org/pdf/2003.12194.pdf)
+
+   - Philippe Chatigny, et al.
+   - Code not yet.
+
 - [G-Net: A Deep Learning Approach to G-computation for Counterfactual Outcome Prediction Under Dynamic Treatment Regimes](https://arxiv.org/pdf/2003.10551.pdf)
 
   - Rui Li, et al.
