@@ -19,6 +19,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
+- [Zero-shot and few-shot time series forecasting with ordinal regression recurrent neural networks](https://arxiv.org/pdf/2003.12162.pdf)
+
+   - Bernardo Perez Orozco and  Stephen J. Roberts.
+   - [[Code](https://github.com/bperezorozco/ordinal_tsf)]
+
 - [Financial Time Series Representation Learning](https://arxiv.org/pdf/2003.12194.pdf)
 
    - Philippe Chatigny, et al.
