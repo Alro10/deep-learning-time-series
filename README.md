@@ -19,6 +19,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
+- [Deep State Space Models for Nonlinear System Identification](https://arxiv.org/pdf/2003.14162.pdf)
+
+   - Daniel Gedon, et al.
+   - Code not yet.
+
 - [Zero-shot and few-shot time series forecasting with ordinal regression recurrent neural networks](https://arxiv.org/pdf/2003.12162.pdf)
 
    - Bernardo Perez Orozco and  Stephen J. Roberts.
