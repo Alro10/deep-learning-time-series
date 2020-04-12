@@ -19,6 +19,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
+- [Deep Probabilistic Modelling of Price Movements for High-Frequency Trading](https://arxiv.org/pdf/2004.01498.pdf)
+
+   - Ye-Sheen Lim and Denise Gorse.
+   - Code not yet.
+
 - [Deep State Space Models for Nonlinear System Identification](https://arxiv.org/pdf/2003.14162.pdf)
 
    - Daniel Gedon, et al.
