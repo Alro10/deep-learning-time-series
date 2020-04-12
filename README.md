@@ -19,6 +19,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
+- [TraDE: Transformers for Density Estimation](https://arxiv.org/pdf/2004.02441.pdf)
+
+   - Rasool Fakoor, et al.
+   - Code not yet.
+
 - [Deep Probabilistic Modelling of Price Movements for High-Frequency Trading](https://arxiv.org/pdf/2004.01498.pdf)
 
    - Ye-Sheen Lim and Denise Gorse.
