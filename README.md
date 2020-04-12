@@ -19,6 +19,12 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
+- [FORECASTING IN MULTIVARIATE IRREGULARLY SAMPLED TIME SERIES WITH MISSING VALUES](https://arxiv.org/pdf/2004.03398.pdf)
+
+   - Shivam Srivastava, et al.
+   - Code not yet.
+   - **IBM Almaden Research Center**.
+
 - [TraDE: Transformers for Density Estimation](https://arxiv.org/pdf/2004.02441.pdf)
 
    - Rasool Fakoor, et al.
