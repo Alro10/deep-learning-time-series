@@ -25,6 +25,11 @@ List of state of the art papers focus on deep learning and resources, code and e
    - Code not yet.
    - **IBM Almaden Research Center**.
 
+- [Multi-label Prediction in Time Series Data using Deep Neural Networks](https://arxiv.org/pdf/2001.10098.pdf)
+
+   - Wenyu Zhang, et al.
+   - Code not yet.
+
 - [TraDE: Transformers for Density Estimation](https://arxiv.org/pdf/2004.02441.pdf)
 
    - Rasool Fakoor, et al.
