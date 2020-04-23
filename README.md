@@ -386,6 +386,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2017
 
+- [Deep learning with long short-term memory networks for financial market predictions](https://www.econstor.eu/bitstream/10419/157808/1/886576210.pdf)
+
+  - Fischer, Thomas and Krauss, Christopher.
+  - Code not yet.
+
 - [Discriminative State-Space Models](https://papers.nips.cc/paper/7150-discriminative-state-space-models.pdf)`NIPS 2017`
 
   - Vitaly Kuznetsov and Mehryar Mohri.
