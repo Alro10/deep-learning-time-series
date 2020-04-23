@@ -452,6 +452,8 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ## Code-Resource
 
+- [EpiSoon: Forecasting the effective reproduction number over short timescales](https://github.com/epiforecasts/EpiSoon)
+
 - [Electric Load Forecasting](https://github.com/pyaf/load_forecasting): Load forecasting on Delhi area electric power load using ARIMA, RNN, LSTM and GRU models.
 
 - [Time Series and Forecasting in R](https://github.com/rstudio-conf-2020/time-series-forecasting)
