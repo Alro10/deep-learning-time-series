@@ -492,6 +492,8 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ## Datasets
 
+- [A curated list of awesome time series databases](https://github.com/xephonhq/awesome-time-series-database)
+
 - [Electricity dataset from UCI](https://archive.ics.uci.edu/ml/datasets/ElectricityLoadDiagrams20112014)
 
 - [Traffic dataset from UCI](https://archive.ics.uci.edu/ml/datasets/PEMS-SF)
