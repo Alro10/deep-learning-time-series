@@ -407,6 +407,11 @@ List of state of the art papers focus on deep learning and resources, code and e
   - Vitaly Kuznetsov and Mehryar Mohri.
   - Code not yet.
 
+  - [Deep neural networks, gradient-boosted trees, random forests: Statistical arbitrage on the S&P 500](https://ideas.repec.org/p/zbw/iwqwdp/032016.html)
+
+    - Krauss, Christopher, et al.
+    - Code not yet.
+
 ### Comparative: Classical methods vs Deep Learning methods
 
 - [Forecasting economic and financial time series: ARIMA VS. LSTM](https://arxiv.org/pdf/1803.06386.pdf)
