@@ -153,6 +153,11 @@ List of state of the art papers focus on deep learning and resources, code and e
   - Zhao, Shi, et al.
   - Code not yet.
 
+  - [Self-boosted Time-series Forecasting with Multi-task and Multi-view Learning](https://arxiv.org/pdf/1909.08181.pdf) `AAAI 2020`
+
+    - Long H. Nguyen, et al.
+    - Code not yet
+
 ### 2019
 
 - [Similarity Preserving Representation Learning for Time Series Clustering](https://arxiv.org/pdf/1702.03584.pdf)
@@ -244,11 +249,6 @@ List of state of the art papers focus on deep learning and resources, code and e
   <p align="center">
   <img src="https://github.com/Alro10/deep-learning-time-series/blob/master/YMN_order.png" alt="alt text" width="80%" height="60%">
   </p>
-
-- [Self-boosted Time-series Forecasting with Multi-task and Multi-view Learning](https://arxiv.org/pdf/1909.08181.pdf) `AAAI 2020`
-
-  - Long H. Nguyen, et al.
-  - Code not yet
 
 - [Shape and Time Distortion Loss for Training Deep Time Series Forecasting Models](https://arxiv.org/pdf/1909.09020.pdf)`NeurIPS2019`
 
