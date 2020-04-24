@@ -153,10 +153,15 @@ List of state of the art papers focus on deep learning and resources, code and e
   - Zhao, Shi, et al.
   - Code not yet.
 
-  - [Self-boosted Time-series Forecasting with Multi-task and Multi-view Learning](https://arxiv.org/pdf/1909.08181.pdf) `AAAI 2020`
+- [Self-boosted Time-series Forecasting with Multi-task and Multi-view Learning](https://arxiv.org/pdf/1909.08181.pdf) `AAAI 2020`
 
-    - Long H. Nguyen, et al.
-    - Code not yet
+  - Long H. Nguyen, et al.
+  - Code not yet
+
+- [Deep Landscape Forecasting for Real-time Bidding Advertising](https://arxiv.org/abs/1905.03028) `KDD 2019`
+
+  - Kan Ren, et al.
+  - [[Code](https://github.com/rk2900/DLF)]
 
 ### 2019
 
