@@ -165,6 +165,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2019
 
+- [Forecasting Big Time Series: Theory and Practice](https://dl.acm.org/doi/pdf/10.1145/3292500.3332289)`KDD 2019` **Relevant tutorial**
+
+  - Christos Faloutsos, et al.
+  - [[Code](https://lovvge.github.io/Forecasting-Tutorial-KDD-2019/)]
+
 - [Similarity Preserving Representation Learning for Time Series Clustering](https://arxiv.org/pdf/1702.03584.pdf)
 
   - Qi Lei, et al.
