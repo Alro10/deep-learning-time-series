@@ -158,17 +158,17 @@ List of state of the art papers focus on deep learning and resources, code and e
   - Long H. Nguyen, et al.
   - Code not yet
 
-- [Deep Landscape Forecasting for Real-time Bidding Advertising](https://arxiv.org/abs/1905.03028) `KDD 2019`
-
-  - Kan Ren, et al.
-  - [[Code](https://github.com/rk2900/DLF)]
-
 ### 2019
 
 - [Forecasting Big Time Series: Theory and Practice](https://dl.acm.org/doi/pdf/10.1145/3292500.3332289)`KDD 2019` **Relevant tutorial**
 
   - Christos Faloutsos, et al.
   - [[Code](https://lovvge.github.io/Forecasting-Tutorial-KDD-2019/)]
+
+- [Deep Landscape Forecasting for Real-time Bidding Advertising](https://arxiv.org/abs/1905.03028) `KDD 2019`
+
+  - Kan Ren, et al.
+  - [[Code](https://github.com/rk2900/DLF)]
 
 - [Similarity Preserving Representation Learning for Time Series Clustering](https://arxiv.org/pdf/1702.03584.pdf)
 
