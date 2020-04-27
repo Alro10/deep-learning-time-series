@@ -19,6 +19,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
+- [Orbit: Probabilistic Forecast with Exponential Smoothing](https://arxiv.org/pdf/2004.08492.pdf)
+
+   - Edwin Ng, et a.
+   - Code is available upon request.
+
 - [Daily retail demand forecasting using machine learning with emphasis on calendric special days](https://www.sciencedirect.com/science/article/abs/pii/S0169207020300224)
 
    - Jakob Huber and Heiner Stuckenschmidt.
