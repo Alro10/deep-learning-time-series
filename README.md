@@ -19,6 +19,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
+- [Take a NAP: Non-Autoregressive Prediction for Pedestrian Trajectories](https://arxiv.org/pdf/2004.09760.pdf)
+
+   - Hao Xue, et al.
+   - Code not yet.
+
 - [Orbit: Probabilistic Forecast with Exponential Smoothing](https://arxiv.org/pdf/2004.08492.pdf)
 
    - Edwin Ng, et a.
