@@ -485,6 +485,8 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 - [ML techniques applied to stock prices](https://towardsdatascience.com/machine-learning-techniques-applied-to-stock-price-prediction-6c1994da8001)
 
+- [Forecasting: Principles and Practice: Slides](https://github.com/robjhyndman/ETC3550Slides)**Good material**
+
 ## Code-Resource
 
 - [Deep4cast: Forecasting for Decision Making under Uncertainty](https://github.com/MSRDL/Deep4Cast)
