@@ -487,6 +487,8 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ## Code-Resource
 
+- [Deep4cast: Forecasting for Decision Making under Uncertainty](https://github.com/MSRDL/Deep4Cast)
+
 - [fireTS: sklean style package for multi-variate time-series prediction.](https://github.com/jxx123/fireTS)
 
 - [EpiSoon: Forecasting the effective reproduction number over short timescales](https://github.com/epiforecasts/EpiSoon)
