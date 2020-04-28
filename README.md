@@ -19,6 +19,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
+- [Neural forecasting: Introduction and literature overview](https://arxiv.org/pdf/2004.10240.pdf)
+
+   - Konstantinos Benidis, et al.
+   - Not is a overview.
+
 - [Take a NAP: Non-Autoregressive Prediction for Pedestrian Trajectories](https://arxiv.org/pdf/2004.09760.pdf)
 
    - Hao Xue, et al.
