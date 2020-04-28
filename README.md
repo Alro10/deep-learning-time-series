@@ -471,6 +471,8 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ## Theory-Resource
 
+- [Attention-for-time-series-classification-and-forecasting](https://towardsdatascience.com/attention-for-time-series-classification-and-forecasting-261723e0006d)
+
 - [Deep learning for high dimensional time series-blog](https://towardsdatascience.com/deep-learning-for-high-dimensional-time-series-7a72b033a7e0)
 
 - [Deep Learning AI-Optimization](https://deeplearning.ai/ai-notes/optimization/)
