@@ -380,6 +380,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2018
 
+- [Statistical and Machine Learning forecasting methods: Concerns and ways forward](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0194889)
+
+  - Spyros Makridakis, et al.
+  - Code not yet.
+
 - [Attend and Diagnose: Clinical Time Series Analysis Using Attention Models](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/16325/16790) `AAAI 2018`
 
   - Huan Song, Deepta Rajan, et al.
