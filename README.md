@@ -188,6 +188,7 @@ List of state of the art papers focus on deep learning and resources, code and e
 - [Think Globally, Act Locally: A Deep Neural Network Approach to High-Dimensional Time Series Forecasting](https://arxiv.org/pdf/1905.03806.pdf)`NeurIPS 2019`
 
   - Rajat Sen, et al.
+  - `Amazon`
   - [[Code](https://github.com/rajatsen91/deepglo)]
 
 - [Deep Landscape Forecasting for Real-time Bidding Advertising](https://arxiv.org/abs/1905.03028) `KDD 2019`
