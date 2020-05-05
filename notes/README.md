@@ -12,4 +12,4 @@
 
 - https://stackoverflow.com/questions/49892528/what-is-the-architecture-behind-the-keras-lstm-layer-implementation
 
-- 
+- https://stats.stackexchange.com/questions/274478/understanding-input-shape-parameter-in-lstm-with-keras
