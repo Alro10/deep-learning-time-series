@@ -7,3 +7,9 @@
 - What is 'dropout' exactly?
 
 - How to define the output tensor correctly?
+
+### References
+
+- https://stackoverflow.com/questions/49892528/what-is-the-architecture-behind-the-keras-lstm-layer-implementation
+
+- 
