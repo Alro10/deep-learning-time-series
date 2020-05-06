@@ -19,11 +19,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
-- [Time Series Forecasting With Deep Learning: A Survey](https://arxiv.org/pdf/2004.13408.pdf)
+- [Time Series Forecasting With Deep Learning: A Survey](https://arxiv.org/pdf/2004.13408.pdf)**good summary review**
 
   - Bryan Lim and Stefan Zohren
   - Survey
-  
+
 - [Neural forecasting: Introduction and literature overview](https://arxiv.org/pdf/2004.10240.pdf)
 
    - Konstantinos Benidis, et al.
