@@ -19,6 +19,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
+- [Enhancing High Frequency Technical Indicators Forecasting Using Shrinking Deep Neural Networks](https://ieeexplore.ieee.org/abstract/document/9081393) `ICIM 2020`
+
+  - Xiaoyu Tan, et al.
+  - Code not yet.
+
 - [Time Series Forecasting With Deep Learning: A Survey](https://arxiv.org/pdf/2004.13408.pdf)**good summary review**
 
   - Bryan Lim and Stefan Zohren
