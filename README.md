@@ -24,7 +24,7 @@ List of state of the art papers focus on deep learning and resources, code and e
   - Xiaoyu Tan, et al.
   - Code not yet.
 
-- [Time Series Forecasting With Deep Learning: A Survey](https://arxiv.org/pdf/2004.13408.pdf)**good summary review**
+- [Time Series Forecasting With Deep Learning: A Survey](https://arxiv.org/pdf/2004.13408.pdf) **Good summary**
 
   - Bryan Lim and Stefan Zohren
   - Survey
