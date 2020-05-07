@@ -497,6 +497,8 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ## Theory-Resource
 
+- [Time Series Forecasting Best Practices & Examples from Microsoft](https://github.com/microsoft/forecasting)
+
 - [Attention-for-time-series-classification-and-forecasting](https://towardsdatascience.com/attention-for-time-series-classification-and-forecasting-261723e0006d)
 
 - [Deep learning for high dimensional time series-blog](https://towardsdatascience.com/deep-learning-for-high-dimensional-time-series-7a72b033a7e0)
