@@ -19,6 +19,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
+- [Augmented Out-of-Sample Comparison Method for Time Series Forecasting Techniques](https://link.springer.com/chapter/10.1007/978-3-030-47358-7_30)
+
+  - Igor Ilic, et al.
+  - Code not yet.
+
 - [Enhancing High Frequency Technical Indicators Forecasting Using Shrinking Deep Neural Networks](https://ieeexplore.ieee.org/abstract/document/9081393) `ICIM 2020`
 
   - Xiaoyu Tan, et al.
