@@ -19,6 +19,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
+- [An Approach for Complex Event Streams Processing and Forecasting](https://fruct.org/publications/fruct26/files/Moro.pdf)
+
+  - Viktor Morozov, Mikhail Petrovskiy.
+  - Code not yet.
+
 - [Knowledge Enhanced Neural Fashion Trend Forecasting](https://arxiv.org/pdf/2005.03297.pdf)
 
   - Yunshan Ma, et al.
