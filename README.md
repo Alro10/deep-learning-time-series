@@ -19,6 +19,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
+- [Knowledge Enhanced Neural Fashion Trend Forecasting](https://arxiv.org/pdf/2005.03297.pdf)
+
+  - Yunshan Ma, et al.
+  - Code not yet.
+
 - [Augmented Out-of-Sample Comparison Method for Time Series Forecasting Techniques](https://link.springer.com/chapter/10.1007/978-3-030-47358-7_30)
 
   - Igor Ilic, et al.
