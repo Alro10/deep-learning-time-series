@@ -539,6 +539,8 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ## Code-Resource
 
+- [Time-series Generative Adversarial Networks: tsgan](https://github.com/firmai/tsgan)
+
 - [Deep4cast: Forecasting for Decision Making under Uncertainty](https://github.com/MSRDL/Deep4Cast)
 
 - [fireTS: sklean style package for multi-variate time-series prediction.](https://github.com/jxx123/fireTS)
