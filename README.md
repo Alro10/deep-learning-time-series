@@ -210,6 +210,11 @@ List of state of the art papers focus on deep learning and resources, code and e
   - Christos Faloutsos, et al.
   - [[Code](https://lovvge.github.io/Forecasting-Tutorial-KDD-2019/)]
 
+- [Deep Uncertainty Quantification: A Machine Learning Approach for Weather Forecasting](http://urban-computing.com/pdf/kdd19-BinWang.pdf)
+
+  - Bin Wang, et al.
+  - [[Code](https://github.com/BruceBinBoxing/Deep_Learning_Weather_Forecasting)]
+
 - [Think Globally, Act Locally: A Deep Neural Network Approach to High-Dimensional Time Series Forecasting](https://arxiv.org/pdf/1905.03806.pdf)`NeurIPS 2019`
 
   - Rajat Sen, et al.
