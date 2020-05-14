@@ -25,3 +25,5 @@ model.add(LSTM(input_shape = (50,1), output_dim= 50, return_sequences = True))
 - https://stats.stackexchange.com/questions/274478/understanding-input-shape-parameter-in-lstm-with-keras
 
 - https://stackoverflow.com/questions/44273249/in-keras-what-exactly-am-i-configuring-when-i-create-a-stateful-lstm-layer-wi
+
+- https://github.com/MohammadFneish7/Keras_LSTM_Diagram
