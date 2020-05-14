@@ -2,9 +2,17 @@
 
 - How to define the input tensor and what this input must be 3D?
 
+```Python
+model = Sequential()
+model.add(LSTM(input_shape = (50,1), output_dim= 50, return_sequences = True))
+```
+  - time_step = # of neurons = 50
+  - hidden_states = output_dim = 50
+  - real input_shape = (X_train, 50, 1) >> output (512, 50, 50) each epoch = (batch_size, time_step, unit)
+
 - How the dimension of vector changes along hidden layers?
 
-- What is 'dropout' exactly?
+- What is `dropout` exactly?
 
 - How to define the output tensor correctly?
 
