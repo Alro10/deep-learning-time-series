@@ -525,6 +525,7 @@ List of state of the art papers focus on deep learning and resources, code and e
 ## Competitions
 
 - [M5 Competition](https://mofc.unic.ac.cy/m5-competition/)
+- [M4 Competition](https://github.com/Mcompetitions/M4-methods)
 
 ## Code
 
