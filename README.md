@@ -220,6 +220,12 @@ List of state of the art papers focus on deep learning and resources, code and e
   - Bin Wang, et al.
   - [[Code](https://github.com/BruceBinBoxing/Deep_Learning_Weather_Forecasting)]
 
+- [A hybrid method of exponential smoothing and recurrent neural networks for time series forecasting](https://www.researchgate.net/publication/334556784_A_hybrid_method_of_exponential_smoothing_and_recurrent_neural_networks_for_time_series_forecasting)
+
+  - Slawek Smyl
+  - `Winning submission of the M4 forecasting competition`
+  - [[Code](https://github.com/Mcompetitions/M4-methods/tree/slaweks_ES-RNN/118%20-%20slaweks17)]
+
 - [Think Globally, Act Locally: A Deep Neural Network Approach to High-Dimensional Time Series Forecasting](https://arxiv.org/pdf/1905.03806.pdf)`NeurIPS 2019`
 
   - Rajat Sen, et al.
