@@ -19,6 +19,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
+- [DSANet: Dual Self-Attention Network for Multivariate Time Series Forecasting](https://dl.acm.org/doi/10.1145/3357384.3358132) **Good new approach**
+
+  - Siteng Huang, et al.
+  - [[Code](https://github.com/bighuang624/DSANet)]
+
 - [An Approach for Complex Event Streams Processing and Forecasting](https://fruct.org/publications/fruct26/files/Moro.pdf)
 
   - Viktor Morozov, Mikhail Petrovskiy.
