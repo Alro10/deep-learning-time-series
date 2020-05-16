@@ -474,6 +474,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2016
 
+- [Data Preprocessing and Augmentation for Multiple Short Time Series Forecasting with Recurrent Neural Networks](https://www.researchgate.net/publication/309385800_Data_Preprocessing_and_Augmentation_for_Multiple_Short_Time_Series_Forecasting_with_Recurrent_Neural_Networks)
+
+   - Slawek Smyl and Karthik Kuber
+   - Code not yet.
+
 - [Temporal Regularized Matrix Factorization for High-dimensional Time Series Prediction](https://papers.nips.cc/paper/6160-temporal-regularized-matrix-factorization-for-high-dimensional-time-series-prediction)`NIPS 2016`
 
   - [[Code](https://github.com/rofuyu/exp-trmf-nips16)]
