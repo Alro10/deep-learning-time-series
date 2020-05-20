@@ -19,6 +19,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
+- [A NETWORK-BASED TRANSFER LEARNING APPROACH TO IMPROVE SALES FORECASTING OF NEW PRODUCTS](https://arxiv.org/pdf/2005.06978.pdf)
+
+  - Karb, Tristan, et al.
+  - Code not yet.
+
 - [DSANet: Dual Self-Attention Network for Multivariate Time Series Forecasting](https://dl.acm.org/doi/10.1145/3357384.3358132) **Good new approach**
 
   - Siteng Huang, et al.
