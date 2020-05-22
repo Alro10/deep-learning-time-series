@@ -19,6 +19,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
+- [LSTM-MSNet: Leveraging Forecasts on Sets of Related Time Series with Multiple Seasonal Patterns](https://arxiv.org/pdf/1909.04293.pdf)
+
+  - Kasun Bandara, et al.
+  - [[Code](https://github.com/kasungayan/LSTMMSNet)]
+
 - [A NETWORK-BASED TRANSFER LEARNING APPROACH TO IMPROVE SALES FORECASTING OF NEW PRODUCTS](https://arxiv.org/pdf/2005.06978.pdf)
 
   - Karb, Tristan, et al.
