@@ -19,6 +19,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
+- [FORECASTING WITH SKTIME: DESIGNING SKTIME’S NEW FORECASTING API AND APPLYING IT TO REPLICATE AND EXTEND THE M4 STUDY](https://arxiv.org/pdf/2005.08067.pdf)
+
+  - Markus Löning and Franz J. Király.
+  - [[Code](https://github.com/sktime/sktime-dl)]
+
 - [LSTM-MSNet: Leveraging Forecasts on Sets of Related Time Series with Multiple Seasonal Patterns](https://arxiv.org/pdf/1909.04293.pdf)
 
   - Kasun Bandara, et al.
