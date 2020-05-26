@@ -19,6 +19,12 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
+- [The Effectiveness of Discretization in Forecasting: An Empirical Study on Neural Time Series Models](https://arxiv.org/pdf/2005.10111.pdf)
+
+  - Stephan Rabanser, et al.
+  - `AWS AI Labs`
+  - Code not yet.
+
 - [FORECASTING WITH SKTIME: DESIGNING SKTIME’S NEW FORECASTING API AND APPLYING IT TO REPLICATE AND EXTEND THE M4 STUDY](https://arxiv.org/pdf/2005.08067.pdf)
 
   - Markus Löning and Franz J. Király.
