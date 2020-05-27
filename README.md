@@ -19,6 +19,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
+- [How to Learn from Others: Transfer Machine Learning with Additive Regression Models to Improve Sales Forecasting](https://arxiv.org/pdf/2005.10698.pdf)
+
+  - Robin Hirt, et al.
+  - Code not yet.
+
 - [The Hybrid Forecasting Method SVR-ESAR for Covid-19](https://www.medrxiv.org/content/medrxiv/early/2020/05/22/2020.05.20.20103200.full.pdf)
 
   - Juan Frausto Solis, et al.
