@@ -19,6 +19,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
+- [Forecasting the Short-Term Metro Ridership With Seasonal and Trend Decomposition Using Loess and LSTM Neural Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9094173)
+
+  - DEWANG CHEN, et al.
+  - Code not yet.
+
 - [The Effectiveness of Discretization in Forecasting: An Empirical Study on Neural Time Series Models](https://arxiv.org/pdf/2005.10111.pdf)
 
   - Stephan Rabanser, et al.
