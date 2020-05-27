@@ -19,6 +19,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
+- [The Hybrid Forecasting Method SVR-ESAR for Covid-19](https://www.medrxiv.org/content/medrxiv/early/2020/05/22/2020.05.20.20103200.full.pdf)
+
+  - Juan Frausto Solis, et al.
+  - Code not yet.
+
 - [Forecasting the Short-Term Metro Ridership With Seasonal and Trend Decomposition Using Loess and LSTM Neural Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9094173)
 
   - DEWANG CHEN, et al.
