@@ -587,6 +587,8 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ## Code-Resource
 
+- [varstan: An R package for Bayesian analysis of structured time series models with Stan](https://arxiv.org/pdf/2005.10361.pdf)
+
 - [Time-series Generative Adversarial Networks: tsgan](https://github.com/firmai/tsgan)
 
 - [Deep4cast: Forecasting for Decision Making under Uncertainty](https://github.com/MSRDL/Deep4Cast)
