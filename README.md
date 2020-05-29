@@ -502,6 +502,11 @@ List of state of the art papers focus on deep learning and resources, code and e
   - Guokun Lai, Wei-Cheng Chang, Yiming Yang, Hanxiao Liu
   - [[Code](https://github.com/laiguokun/LSTNet)]
 
+- [Forecasting Treatment Responses Over Time Using Recurrent Marginal Structural Networks](http://papers.nips.cc/paper/7977-forecasting-treatment-responses-over-time-using-recurrent-marginal-structural-networks.pdf) `NeurIPS 2018`
+
+  - Bryan Lim. et al.
+  - [Code](https://github.com/sjblim/rmsn_nips_2018)
+
 ### 2017
 
 - [Deep learning with long short-term memory networks for financial market predictions](https://www.econstor.eu/bitstream/10419/157808/1/886576210.pdf)
