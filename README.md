@@ -19,7 +19,7 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
-- [N-BEATS: NEURAL BASIS EXPANSION ANALYSIS FOR INTERPRETABLE TIME SERIES FORECASTING](https://arxiv.org/pdf/1905.10437.pdf)
+- [N-BEATS: NEURAL BASIS EXPANSION ANALYSIS FOR INTERPRETABLE TIME SERIES FORECASTING](https://arxiv.org/pdf/1905.10437.pdf)` ICLR 2020`
 
   - Boris N. Oreshkin, et al.
   - Code not yet.
