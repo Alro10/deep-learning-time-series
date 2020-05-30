@@ -19,6 +19,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
+- [N-BEATS: NEURAL BASIS EXPANSION ANALYSIS FOR INTERPRETABLE TIME SERIES FORECASTING](https://arxiv.org/pdf/1905.10437.pdf)
+
+  - Boris N. Oreshkin, et al.
+  - Code not yet.
+
 - [How to Learn from Others: Transfer Machine Learning with Additive Regression Models to Improve Sales Forecasting](https://arxiv.org/pdf/2005.10698.pdf)**good new approach**
 
   - Robin Hirt, et al.
