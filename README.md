@@ -19,7 +19,7 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
-- [How to Learn from Others: Transfer Machine Learning with Additive Regression Models to Improve Sales Forecasting](https://arxiv.org/pdf/2005.10698.pdf)
+- [How to Learn from Others: Transfer Machine Learning with Additive Regression Models to Improve Sales Forecasting](https://arxiv.org/pdf/2005.10698.pdf)**good new approach**
 
   - Robin Hirt, et al.
   - Code not yet.
