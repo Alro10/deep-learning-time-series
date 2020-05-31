@@ -19,6 +19,12 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
+- [Multivariate time series forecasting via attention-based encoder–decoder framework](https://www.sciencedirect.com/science/article/abs/pii/S0925231220300606)
+
+  - Shengdong Du, et al.
+  - `Neurocomputing`
+  - Code not yet.
+
 - [A Novel LSTM for Multivariate Time Series with Massive Missingness](https://www.mdpi.com/1424-8220/20/10/2832)
 
   - Nazanin Fouladgar and Kary Främling.
