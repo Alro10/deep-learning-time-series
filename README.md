@@ -19,6 +19,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
+- [A Novel LSTM for Multivariate Time Series with Massive Missingness](https://www.mdpi.com/1424-8220/20/10/2832)
+
+  - Nazanin Fouladgar and Kary Främling.
+  - Code not yet.
+
 - [N-BEATS: NEURAL BASIS EXPANSION ANALYSIS FOR INTERPRETABLE TIME SERIES FORECASTING](https://arxiv.org/pdf/1905.10437.pdf)` ICLR 2020`
 
   - Boris N. Oreshkin, et al.
