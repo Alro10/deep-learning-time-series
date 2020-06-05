@@ -19,6 +19,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
+- [Semisupervised Deep State-Space Model for Plant Growth Modeling](https://spj.sciencemag.org/plantphenomics/2020/4261965/)
+
+  - S. Shibata, et al.
+  - Code not yet.
+
 - [EFFECTIVE AND EFFICIENT COMPUTATION WITH MULTIPLE-TIMESCALE SPIKING RECURRENT NEURAL NETWORKS](https://arxiv.org/pdf/2005.11633.pdf)
 
   - Bojian Yin, et al.
