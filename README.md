@@ -19,6 +19,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
+- [EFFECTIVE AND EFFICIENT COMPUTATION WITH MULTIPLE-TIMESCALE SPIKING RECURRENT NEURAL NETWORKS](https://arxiv.org/pdf/2005.11633.pdf)
+
+  - Bojian Yin, et al.
+  - Code not yet.
+
 - [Multivariate time series forecasting via attention-based encoder–decoder framework](https://www.sciencedirect.com/science/article/abs/pii/S0925231220300606)
 
   - Shengdong Du, et al.
