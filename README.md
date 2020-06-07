@@ -19,7 +19,7 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
-- [Exploring Clinical Time Series Forecasting with Meta-Features in Variational Recurrent Models](https://ecole-itn.eu/wp-content/uploads/2020/05/IJCNN2020_Sibghat_Final.pdf)
+- [Exploring Clinical Time Series Forecasting with Meta-Features in Variational Recurrent Models](https://ecole-itn.eu/wp-content/uploads/2020/05/IJCNN2020_Sibghat_Final.pdf)**meta-learning**
 
   - Sibghat Ullah, et al.
   - [[Code](https://github.com/SibghatUllah13/VRNNs-for-Clinical-Time-Series-Forecasting)]
