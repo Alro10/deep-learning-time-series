@@ -475,6 +475,7 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 - [Deep Factors for Forecasting](https://arxiv.org/pdf/1905.12417.pdf) `ICML 2019`
 
+  - Yuyang Wang, et al.
   - Code not yet
 
 - [Probabilistic Forecasting with Spline Quantile Function RNNs](http://proceedings.mlr.press/v89/gasthaus19a/gasthaus19a.pdf)
