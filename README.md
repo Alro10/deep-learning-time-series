@@ -19,6 +19,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
+- [A machine learning approach for forecasting hierarchical time series](https://arxiv.org/pdf/2006.00630.pdf)
+
+  - Paolo Mancuso, et al.
+  - Code not yet.
+
 - [ProbCast: Open-source Production, Evaluation and Visualisation of Probabilistic Forecasts](http://www.jethrobrowell.com/uploads/4/5/4/0/45405281/probcast___pmaps2020.pdf)
 
   - Jethro Browell and Ciaran Gilbert.
