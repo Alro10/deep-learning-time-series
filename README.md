@@ -19,6 +19,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
+- [ProbCast: Open-source Production, Evaluation and Visualisation of Probabilistic Forecasts](http://www.jethrobrowell.com/uploads/4/5/4/0/45405281/probcast___pmaps2020.pdf)
+
+  - Jethro Browell and Ciaran Gilbert.
+  - [[Code](https://github.com/jbrowell/ProbCast)]
+
 - [Exploring Clinical Time Series Forecasting with Meta-Features in Variational Recurrent Models](https://ecole-itn.eu/wp-content/uploads/2020/05/IJCNN2020_Sibghat_Final.pdf)**meta-learning**
 
   - Sibghat Ullah, et al.
