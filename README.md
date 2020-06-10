@@ -19,6 +19,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
+- [COVID-19: A Comparison of Time Series Methods to Forecast Percentage of Active Cases per Population](https://www.mdpi.com/2076-3417/10/11/3880)
+
+  - Vasilis Papastefanopoulos, et al.
+  - [[Code](https://github.com/ML-Upatras/COVID-19-A-comparison-of-time-series-methods-foractive-cases-forecasting)]
+
 - [A machine learning approach for forecasting hierarchical time series](https://arxiv.org/pdf/2006.00630.pdf)
 
   - Paolo Mancuso, et al.
