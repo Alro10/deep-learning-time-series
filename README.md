@@ -19,6 +19,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
+- [Neuroevolution Strategy for Time Series Prediction](https://www.scirp.org/journal/paperinformation.aspx?paperid=100727)
+
+   - George Naskos, et al.
+   - Code not yet.
+
 - [COVID-19: A Comparison of Time Series Methods to Forecast Percentage of Active Cases per Population](https://www.mdpi.com/2076-3417/10/11/3880)
 
   - Vasilis Papastefanopoulos, et al.
