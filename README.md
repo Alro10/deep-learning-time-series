@@ -19,6 +19,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
+- [Traffic transformer: Capturing the continuity and periodicity of time series for traffic forecasting](https://onlinelibrary.wiley.com/doi/abs/10.1111/tgis.12644)
+
+  - Ling Cai, et al.
+  - Code not yet.
+
 - [Stanza: A Nonlinear State Space Model for Probabilistic Inference in Non-Stationary Time Series](https://arxiv.org/pdf/2006.06553.pdf)
 
    - Anna K. Yanchenko and Sayan Mukherjee.
