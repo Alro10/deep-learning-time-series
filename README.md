@@ -19,6 +19,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
+- [Stanza: A Nonlinear State Space Model for Probabilistic Inference in Non-Stationary Time Series](https://arxiv.org/pdf/2006.06553.pdf)
+
+   - Anna K. Yanchenko and Sayan Mukherjee.
+   - Code not yet.
+
 - [Neuroevolution Strategy for Time Series Prediction](https://www.scirp.org/journal/paperinformation.aspx?paperid=100727)
 
    - George Naskos, et al.
