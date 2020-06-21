@@ -22,6 +22,7 @@ List of state of the art papers focus on deep learning and resources, code and e
 - [Dynamic Neural Relational Inference for Forecasting Trajectories](http://openaccess.thecvf.com/content_CVPRW_2020/papers/w66/Graber_Dynamic_Neural_Relational_Inference_for_Forecasting_Trajectories_CVPRW_2020_paper.pdf)
 
   - Colin Graber and Alexander Schwing
+  - `CVPR 2020`
   - [[Code](https://github.com/cgraber/cvpr_dNRI)]
 
 - [Traffic transformer: Capturing the continuity and periodicity of time series for traffic forecasting](https://onlinelibrary.wiley.com/doi/abs/10.1111/tgis.12644)
