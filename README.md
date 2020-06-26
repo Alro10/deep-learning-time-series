@@ -19,6 +19,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
+- [Forecasting Supplier Delivery Performance with Recurrent Neural Networks](https://odr.chalmers.se/bitstream/20.500.12380/300824/1/Master_s_Thesis_Johan_Ramne_.pdf)
+
+  - Johan Ramne
+  - Master Thesis.
+
 - [Markovian RNN: An Adaptive Time Series Prediction Network with HMM-based Switching for Nonstationary Environments](https://arxiv.org/pdf/2006.10119.pdf)
 
   - Fatih Ilhan, et al.
