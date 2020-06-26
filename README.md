@@ -22,6 +22,7 @@ List of state of the art papers focus on deep learning and resources, code and e
 - [Resilient Neural Forecasting Systems](https://dl.acm.org/doi/pdf/10.1145/3399579.3399869)
 
   - Michael Bohlke-Schneider, et al.
+  - `Amazon Research`
   - Code not yet.
 
 - [Dynamic Neural Relational Inference for Forecasting Trajectories](http://openaccess.thecvf.com/content_CVPRW_2020/papers/w66/Graber_Dynamic_Neural_Relational_Inference_for_Forecasting_Trajectories_CVPRW_2020_paper.pdf)
