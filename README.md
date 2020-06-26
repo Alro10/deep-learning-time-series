@@ -19,6 +19,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
+- [Markovian RNN: An Adaptive Time Series Prediction Network with HMM-based Switching for Nonstationary Environments](https://arxiv.org/pdf/2006.10119.pdf)
+
+  - Fatih Ilhan, et al.
+  - Code not yet.
+
 - [Resilient Neural Forecasting Systems](https://dl.acm.org/doi/pdf/10.1145/3399579.3399869)
 
   - Michael Bohlke-Schneider, et al.
