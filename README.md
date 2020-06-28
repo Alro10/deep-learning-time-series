@@ -19,6 +19,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
+- [Time Series Regression](https://arxiv.org/pdf/2006.12672.pdf)
+
+  - Chang Wei Tan, et al.
+  - [[Code](https://github.com/ChangWeiTan/TSRegression)]
+
 - [Forecasting Supplier Delivery Performance with Recurrent Neural Networks](https://odr.chalmers.se/bitstream/20.500.12380/300824/1/Master_s_Thesis_Johan_Ramne_.pdf)
 
   - Johan Ramne
