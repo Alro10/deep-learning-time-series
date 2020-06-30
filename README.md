@@ -686,6 +686,8 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ## Code-Resource
 
+- [DeepSeries: Deep Learning Models for time series prediction.](https://github.com/EvilPsyCHo/Deep-Time-Series-Prediction)
+
 - [varstan: An R package for Bayesian analysis of structured time series models with Stan](https://arxiv.org/pdf/2005.10361.pdf)
 
 - [Time-series Generative Adversarial Networks: tsgan](https://github.com/firmai/tsgan)
