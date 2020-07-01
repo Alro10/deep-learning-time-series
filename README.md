@@ -19,6 +19,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
+- [Dynamic Multi-Scale Convolutional Neural Network for Time Series Classification](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9115645)
+
+  - BIN QIAN, et al.
+  - Code not yet.
+
 - [Neural Architecture Search for Time Series Classification](https://germain-forestier.info/publis/ijcnn2020.pdf)
 
   - Hojjat Rakhshani, et al.
