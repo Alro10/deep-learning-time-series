@@ -19,6 +19,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
+- [Neural Architecture Search for Time Series Classification](https://germain-forestier.info/publis/ijcnn2020.pdf)
+
+  - Hojjat Rakhshani, et al.
+  - [[Code](https://github.com/ML-MHs/IJCNN2020)]
+
 - [Frequentist Uncertainty in Recurrent Neural Networks via Blockwise Influence Functions](https://arxiv.org/pdf/2006.13707.pdf)
 
   - Ahmed M. Alaa and Mihaela van der Schaar.
