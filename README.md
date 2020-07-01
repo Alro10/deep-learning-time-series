@@ -19,6 +19,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
+- [Frequentist Uncertainty in Recurrent Neural Networks via Blockwise Influence Functions](https://arxiv.org/pdf/2006.13707.pdf)
+
+  - Ahmed M. Alaa and Mihaela van der Schaar.
+  - Code not yet.
+
 - [Time Series Regression](https://arxiv.org/pdf/2006.12672.pdf)
 
   - Chang Wei Tan, et al.
