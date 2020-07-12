@@ -19,6 +19,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
+- [Adaptive Graph Convolutional Recurrent Network for Traffic Forecasting](https://arxiv.org/pdf/2007.02842.pdf)
+
+  - Lei Bai, et al.
+  - [[Code](https://github.com/LeiBAI/AGCRN)]
+
 - [Dynamic Multi-Scale Convolutional Neural Network for Time Series Classification](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9115645)
 
   - BIN QIAN, et al.
