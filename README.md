@@ -19,6 +19,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
+- [Superiority of Simplicity: A Lightweight Model for Network Device Workload Prediction](https://arxiv.org/pdf/2007.03568.pdf) **LSTM application**
+
+  - Alexander Acker, et al.
+  - [[Code](https://github.com/citlab/fed_challenge)]
+
 - [Adaptive Graph Convolutional Recurrent Network for Traffic Forecasting](https://arxiv.org/pdf/2007.02842.pdf)
 
   - Lei Bai, et al.
