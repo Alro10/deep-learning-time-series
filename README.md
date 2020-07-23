@@ -19,6 +19,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
+- [Adversarial Attacks on Probabilistic Autoregressive Forecasting Models](https://arxiv.org/abs/2003.03778)
+
+  - Raphaël Dang-Nhu, et al.
+  - [[Code](https://github.com/eth-sri/probabilistic-forecasts-attacks)]
+
 - [Superiority of Simplicity: A Lightweight Model for Network Device Workload Prediction](https://arxiv.org/pdf/2007.03568.pdf) **LSTM application**
 
   - Alexander Acker, et al.
