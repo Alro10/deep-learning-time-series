@@ -19,6 +19,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
+- [Distributed ARIMA Models for Ultra-long Time Series](https://arxiv.org/pdf/2007.09577.pdf)
+
+  - Xiaoqian Wang, et al.
+  - [[Code](https://github.com/xqnwang/darima)]
+
 - [Adversarial Attacks on Probabilistic Autoregressive Forecasting Models](https://arxiv.org/abs/2003.03778)
 
   - Raphaël Dang-Nhu, et al.
