@@ -24,7 +24,7 @@ List of state of the art papers focus on deep learning and resources, code and e
   - Yunchuan Liu, et al.
   - Code not yet.
 
-- [Distributed ARIMA Models for Ultra-long Time Series](https://arxiv.org/pdf/2007.09577.pdf)
+- [Distributed ARIMA Models for Ultra-long Time Series](https://arxiv.org/pdf/2007.09577.pdf) **Spark**
 
   - Xiaoqian Wang, et al.
   - [[Code](https://github.com/xqnwang/darima)]
