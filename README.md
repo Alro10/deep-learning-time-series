@@ -19,6 +19,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
+- [Seasonal Self-evolving Neural Networks Based Short-term Wind Farm Generation Forecast](https://www.researchgate.net/publication/342976923_Seasonal_Self-evolving_Neural_Networks_Based_Short-term_Wind_Farm_Generation_Forecast)
+
+  - Yunchuan Liu, et al.
+  - Code not yet.
+
 - [Distributed ARIMA Models for Ultra-long Time Series](https://arxiv.org/pdf/2007.09577.pdf)
 
   - Xiaoqian Wang, et al.
