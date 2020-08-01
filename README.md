@@ -19,6 +19,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
+- [Demand Forecasting in the Presence of Privileged Information](https://staff.fnwi.uva.nl/m.derijke/wp-content/papercite-data/pdf/ariannezhad-2020-demand.pdf)
+
+  - Mozhdeh Ariannezhad, et al.
+  - [[Code](https://github.com/mzhariann/PIANN)]
+
 - [Seasonal Self-evolving Neural Networks Based Short-term Wind Farm Generation Forecast](https://www.researchgate.net/publication/342976923_Seasonal_Self-evolving_Neural_Networks_Based_Short-term_Wind_Farm_Generation_Forecast)
 
   - Yunchuan Liu, et al.
