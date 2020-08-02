@@ -2,6 +2,8 @@
 
 - How to define the input tensor and what this input must be 3D?
 
+Take a look at following Keras example:
+
 ```Python
 model = Sequential()
 model.add(LSTM(input_shape = (50,1), output_dim= 50, return_sequences = True))
@@ -11,6 +13,8 @@ model.add(LSTM(input_shape = (50,1), output_dim= 50, return_sequences = True))
     - real input_shape = (X_train, 50, 1) >> output (512, 50, 50) each epoch = (batch_size, time_step, unit)
 
 - How the dimension of vector changes along hidden layers?
+
+Need to multiply the matrices: input and LSTM cell dimension.
 
 - What is `dropout` exactly?
 
