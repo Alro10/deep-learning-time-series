@@ -19,6 +19,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
+- [Anomaly Detection at Scale: The Case for Deep Distributional Time Series Models](https://arxiv.org/pdf/2007.15541.pdf)
+
+  - Fadhel Ayed, et al.
+  - [[Code](https://github.com/awslabs/gluon-ts/tree/distribution_anomaly_detection/distribution_anomaly_detection)]
+
 - [Demand Forecasting in the Presence of Privileged Information](https://staff.fnwi.uva.nl/m.derijke/wp-content/papercite-data/pdf/ariannezhad-2020-demand.pdf)
 
   - Mozhdeh Ariannezhad, et al.
