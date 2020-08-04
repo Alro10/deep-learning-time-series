@@ -19,6 +19,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
+- [Cold-Start Promotional Sales Forecasting through Gradient Boosted-based Contrastive Explanations](https://ieeexplore.ieee.org/abstract/document/9149573)
+
+  - Carlos Aguilar-Palacios, et al.
+  - [[Code](https://github.com/CarlitosDev/contrastiveExplanation/tree/master/contrastiveRegressor)]
+
 - [Anomaly Detection at Scale: The Case for Deep Distributional Time Series Models](https://arxiv.org/pdf/2007.15541.pdf)
 
   - Fadhel Ayed, et al.
