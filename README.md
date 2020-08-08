@@ -19,6 +19,12 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
+- [Multi-stream RNN for Merchant Transaction Prediction](https://arxiv.org/pdf/2008.01670.pdf)
+
+  - Zhongfang Zhuang, et al.
+  - `KDD 2020 Workshop on Machine Learning in Finance`
+  - Code not yet.
+
 - [Prediction of hierarchical time series using structured regularization and its application to artificial neural networks](https://arxiv.org/pdf/2007.15159.pdf)
 
   - Tomokaze Shiratori, et al.
