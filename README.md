@@ -19,6 +19,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
+- [Prediction of hierarchical time series using structured regularization and its application to artificial neural networks](https://arxiv.org/pdf/2007.15159.pdf)
+
+  - Tomokaze Shiratori, et al.
+  - Code not yet.
+
 - [Cold-Start Promotional Sales Forecasting through Gradient Boosted-based Contrastive Explanations](https://ieeexplore.ieee.org/abstract/document/9149573)
 
   - Carlos Aguilar-Palacios, et al.
