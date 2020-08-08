@@ -19,6 +19,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
+- [PRINCIPLES AND ALGORITHMS FOR FORECASTING GROUPS OF TIME SERIES: LOCALITY AND GLOBALITY](https://arxiv.org/pdf/2008.00444.pdf)
+
+  - Pablo Montero-Manso and Rob J Hyndman
+  - Code not yet.
+
 - [Multi-stream RNN for Merchant Transaction Prediction](https://arxiv.org/pdf/2008.01670.pdf)
 
   - Zhongfang Zhuang, et al.
