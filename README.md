@@ -19,6 +19,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
+- [Relation-aware Meta-learning for Market Segment Demand Prediction with Limited Records](https://arxiv.org/pdf/2008.00181.pdf) **meta-learning**
+
+  - Jiatu Shi, et al.
+  - Code not yet.
+
 - [Forecasting Economic Recession through Share Price in the Logistics Industry with Artificial Intelligence (AI)](https://www.mdpi.com/2079-3197/8/3/70/pdf)
 
   - YM Tang, et al.
