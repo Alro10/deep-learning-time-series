@@ -19,6 +19,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
+- [Interpretable Sequence Learning for COVID-19 Forecasting](https://arxiv.org/pdf/2008.00646.pdf)
+
+  - Sercan O. Arık, et al.
+  - [[Code](https://github.com/reichlab/covid19-forecast-hub)]
+
 - [Relation-aware Meta-learning for Market Segment Demand Prediction with Limited Records](https://arxiv.org/pdf/2008.00181.pdf) **meta-learning**
 
   - Jiatu Shi, et al.
