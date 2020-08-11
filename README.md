@@ -19,6 +19,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
+- [Improving the Accuracy of Global Forecasting Models using Time Series Data Augmentation](https://arxiv.org/abs/2008.02663)
+
+  - Kasun Bandara, et al.
+  - Code not yet.
+
 - [Interpretable Sequence Learning for COVID-19 Forecasting](https://arxiv.org/pdf/2008.00646.pdf)
 
   - Sercan O. Arık, et al.
