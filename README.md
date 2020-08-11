@@ -19,6 +19,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
+- [Forecasting AI Progress: A Research Agenda](https://arxiv.org/pdf/2008.01848.pdf)
+
+  - Ross Gruetzemacher, et al.
+  - Review
+
 - [Improving the Accuracy of Global Forecasting Models using Time Series Data Augmentation](https://arxiv.org/abs/2008.02663)
 
   - Kasun Bandara, et al.
