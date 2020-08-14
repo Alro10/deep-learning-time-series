@@ -19,6 +19,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
+- [Speed Anomalies and Safe Departure Times from Uber Movement Data](http://urban.cs.wpi.edu/urbcomp2020/file/08.pdf)
+
+  - Nabil Al Nahin Ch, et al.
+  - Code not yet.
+
 - [Forecasting AI Progress: A Research Agenda](https://arxiv.org/pdf/2008.01848.pdf)
 
   - Ross Gruetzemacher, et al.
