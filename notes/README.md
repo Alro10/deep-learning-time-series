@@ -18,6 +18,10 @@ Need to multiply the matrices: input and LSTM cell dimension.
 
 - What is `dropout` exactly?
 
+```Python
+model.add(Dropout(0.5))
+````
+
 Dropout is a regularization technique, and it means: ignoring units i.e., neurons during the training
 process certain set of neurons which is chosen at random, they are not considered in a particular forward or backward pass.
 
