@@ -19,6 +19,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
+- [clairvoyance: a Unified, End-to-End AutoML Pipeline for Medical Time Series](https://www.vanderschaar-lab.com/papers/2020_Clairvoyance.pdf)
+
+  - Daniel Jarrett, et al.
+  - Code not yet.
+
 - [Speed Anomalies and Safe Departure Times from Uber Movement Data](http://urban.cs.wpi.edu/urbcomp2020/file/08.pdf)
 
   - Nabil Al Nahin Ch, et al.
