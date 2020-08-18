@@ -19,6 +19,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
+- [Scalable Low-Rank Autoregressive Tensor Learning for Spatiotemporal Traffic Data Imputation](https://arxiv.org/pdf/2008.03194.pdf)
+
+  - Xinyu Chen, et al.
+  - [[Code](https://github.com/xinychen/tensor-learning)]
+
 - [clairvoyance: a Unified, End-to-End AutoML Pipeline for Medical Time Series](https://www.vanderschaar-lab.com/papers/2020_Clairvoyance.pdf)
 
   - Daniel Jarrett, et al.
