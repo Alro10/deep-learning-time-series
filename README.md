@@ -19,6 +19,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
+- [Short-term forecasting of the COVID-19 pandemic using Google Trends data: Evidence from 158 countries](https://mpra.ub.uni-muenchen.de/102315/1/MPRA_paper_102315.pdf)
+
+  - Fantazzini, Dean.
+  - Code not yet.
+
 - [Scalable Low-Rank Autoregressive Tensor Learning for Spatiotemporal Traffic Data Imputation](https://arxiv.org/pdf/2008.03194.pdf)
 
   - Xinyu Chen, et al.
