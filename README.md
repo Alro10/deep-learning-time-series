@@ -19,6 +19,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
+- [Deep State-Space Generative Model For Correlated Time-to-Event Predictions](https://dl.acm.org/doi/abs/10.1145/3394486.3403206)
+
+  - Yuan Xue, et al.
+  - Code not yet.
+
 - [Short-term forecasting of the COVID-19 pandemic using Google Trends data: Evidence from 158 countries](https://mpra.ub.uni-muenchen.de/102315/1/MPRA_paper_102315.pdf)
 
   - Fantazzini, Dean.
