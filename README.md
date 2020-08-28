@@ -19,6 +19,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
+- [Forecasting the Evolution of Hydropower Generation](https://dl.acm.org/doi/abs/10.1145/3394486.3403337)
+
+  - Fan Zhou, et al.
+  - [[Code](https://github.com/Anewnoob/DeepHydro)]
+
 - [Deep State-Space Generative Model For Correlated Time-to-Event Predictions](https://dl.acm.org/doi/abs/10.1145/3394486.3403206)
 
   - Yuan Xue, et al.
