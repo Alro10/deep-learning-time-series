@@ -19,6 +19,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
+- [LAVARNET: Neural network modeling of causal variable relationships for multivariate time series forecasting](https://arxiv.org/pdf/2009.00945.pdf)
+
+  - Christos Koutlis, et al.
+  - Code not yet.
+
 - [Forecasting Hierarchical Time Series with a Regularized Embedding Space](https://kdd-milets.github.io/milets2020/papers/MiLeTS2020_paper_13.pdf)
 
   - Jeffrey L. Gleason.
