@@ -19,6 +19,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
+- [Forecasting Hierarchical Time Series with a Regularized Embedding Space](https://kdd-milets.github.io/milets2020/papers/MiLeTS2020_paper_13.pdf)
+
+  - Jeffrey L. Gleason.
+  - Code not yet.
+
 - [Forecasting the Evolution of Hydropower Generation](https://dl.acm.org/doi/abs/10.1145/3394486.3403337)
 
   - Fan Zhou, et al.
