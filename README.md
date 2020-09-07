@@ -19,6 +19,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
+- [Kaggle forecasting competitions: An overlooked learning opportunity](https://www.sciencedirect.com/science/article/pii/S0169207020301114)
+
+  - Casper Solheim Bojer and Jens Peder Meldgaard.
+  - [[Code](https://github.com/cbojer/kaggle-project)]
+
 - [Forecasting with Multiple Seasonality](https://arxiv.org/pdf/2008.12340.pdf)
 
   - Tianyang Xie and Jie Ding.
