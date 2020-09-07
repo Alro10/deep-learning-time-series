@@ -19,6 +19,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
+- [Forecasting with Multiple Seasonality](https://arxiv.org/pdf/2008.12340.pdf)
+
+  - Tianyang Xie and Jie Ding.
+  - Code not yet.
+
 - [LAVARNET: Neural network modeling of causal variable relationships for multivariate time series forecasting](https://arxiv.org/pdf/2009.00945.pdf)
 
   - Christos Koutlis, et al.
