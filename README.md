@@ -19,6 +19,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
+- [Graph Neural Networks for Model Recommendation using Time Series Data](https://arxiv.org/pdf/2009.03474.pdf)
+
+  - Aleksandr Pletnev, et al.
+  - Code not yet.
+
 - [Kaggle forecasting competitions: An overlooked learning opportunity](https://www.sciencedirect.com/science/article/pii/S0169207020301114)
 
   - Casper Solheim Bojer and Jens Peder Meldgaard.
