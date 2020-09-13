@@ -19,6 +19,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
+- [Multivariate Time-series Anomaly Detection via Graph Attention Network](https://arxiv.org/pdf/2009.02040.pdf)
+
+  - Hang Zhao, et al.
+  - Code not yet.
+
 - [Graph Neural Networks for Model Recommendation using Time Series Data](https://arxiv.org/pdf/2009.03474.pdf)
 
   - Aleksandr Pletnev, et al.
