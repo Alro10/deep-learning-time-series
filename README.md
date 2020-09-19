@@ -19,6 +19,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
+- [A Time-Series Forecasting Performance Comparison for Neural Networks with State Space and ARIMA Models](http://www.ieomsociety.org/detroit2020/papers/37.pdf)
+
+ - Milton Soto-Ferrari
+ - Code not yet.
+ 
 - [Short-term Time Series Forecasting of Concrete Sewer Pipe Surface Temperature](https://www.researchgate.net/profile/Karthick_Thiyagarajan7/publication/344199272_Short-term_Time_Series_Forecasting_of_Concrete_Sewer_Pipe_Surface_Temperature/links/5f5b0b4492851c07895d48fc/Short-term-Time-Series-Forecasting-of-Concrete-Sewer-Pipe-Surface-Temperature.pdf)
 
   - Karthick Thiyagarajan, et al.
