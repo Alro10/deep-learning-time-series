@@ -19,6 +19,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
+- [Short-term Time Series Forecasting of Concrete Sewer Pipe Surface Temperature](https://www.researchgate.net/profile/Karthick_Thiyagarajan7/publication/344199272_Short-term_Time_Series_Forecasting_of_Concrete_Sewer_Pipe_Surface_Temperature/links/5f5b0b4492851c07895d48fc/Short-term-Time-Series-Forecasting-of-Concrete-Sewer-Pipe-Surface-Temperature.pdf)
+
+  - Karthick Thiyagarajan, et al.
+  - Code not yet.
+
 - [Multivariate Time-series Anomaly Detection via Graph Attention Network](https://arxiv.org/pdf/2009.02040.pdf)
 
   - Hang Zhao, et al.
