@@ -729,6 +729,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2018
 
+- [An overview and comparative analysis of Recurrent Neural Networks for Short Term Load Forecasting](https://arxiv.org/pdf/1705.04378.pdf)
+
+  - Filippo Maria Bianchi, et al.
+  - Code not yet.
+
 - [Statistical and Machine Learning forecasting methods: Concerns and ways forward](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0194889)
 
   - Spyros Makridakis, et al.
