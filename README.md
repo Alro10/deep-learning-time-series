@@ -19,6 +19,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
+- [Attention based Multi-Modal New Product Sales Time-series Forecasting](https://dl.acm.org/doi/10.1145/3394486.3403362)
+
+  - Vijay Ekambaram
+  - Code not yet.
+
 - [Demand Forecasting of individual Probability Density Functions with Machine Learning](https://arxiv.org/pdf/2009.07052.pdf)
 
   - Felix Wick, et al.
