@@ -19,6 +19,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
+- [An analysis of deep neural networks for predicting trends in time series data](https://arxiv.org/pdf/2009.07943.pdf)
+
+  - Kouame Kouassi and Deshendran Moodley.
+  - Code not yet.
+
 - [Automatic Forecasting using Gaussian Processes](https://arxiv.org/pdf/2009.08102.pdf)
 
   - G. Corani
