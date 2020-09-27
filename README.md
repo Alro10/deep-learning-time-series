@@ -23,7 +23,7 @@ List of state of the art papers focus on deep learning and resources, code and e
 
   - G. Corani
   - Code not yet.
-  
+
 - [Attention based Multi-Modal New Product Sales Time-series Forecasting](https://dl.acm.org/doi/10.1145/3394486.3403362)
 
   - Vijay Ekambaram
@@ -793,6 +793,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 - [Discriminative State-Space Models](https://papers.nips.cc/paper/7150-discriminative-state-space-models.pdf)`NIPS 2017`
 
   - Vitaly Kuznetsov and Mehryar Mohri.
+  - Code not yet.
+
+- [Hybrid Neural Networks for Learning the Trend in Time Series](https://www.ijcai.org/Proceedings/2017/0316.pdf)**review**
+
+  - Tao Lin, et al.
   - Code not yet.
 
 ### 2016
