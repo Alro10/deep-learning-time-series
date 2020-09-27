@@ -19,6 +19,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
+- [Automatic Forecasting using Gaussian Processes](https://arxiv.org/pdf/2009.08102.pdf)
+
+  - G. Corani
+  - Code not yet.
+  
 - [Attention based Multi-Modal New Product Sales Time-series Forecasting](https://dl.acm.org/doi/10.1145/3394486.3403362)
 
   - Vijay Ekambaram
