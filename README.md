@@ -19,6 +19,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
+- [Mixed Membership Recurrent Neural Networks for Modeling Customer Purchases](http://www.columbia.edu/~jwp2128/Papers/FazelniaIbrahimetal2020.pdf)
+
+  - Ghazal Fazelnia, et al.
+  - Code not yet.
+  
 - [An analysis of deep neural networks for predicting trends in time series data](https://arxiv.org/pdf/2009.07943.pdf)
 
   - Kouame Kouassi and Deshendran Moodley.
