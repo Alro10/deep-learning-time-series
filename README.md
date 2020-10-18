@@ -19,6 +19,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
+- [Modeling Heterogeneous Seasonality With Recurrent Neural Networks Using IoT Time Series Data for Defrost Detection and Anomaly Analysis](https://dash.harvard.edu/bitstream/handle/1/37365638/KHETARPAL-DOCUMENT-2020.pdf?sequence=1&isAllowed=y) **Good Reference** 
+
+  - Khetarpal, Suraj.
+  - Code not yet.
+
 - [An Examination of the State-of-the-Art for Multivariate Time Series Classification](https://www.researchgate.net/profile/Georgiana_Ifrim/publication/344501445_An_Examination_of_the_State-of-the-Art_for_Multivariate_Time_Series_Classification/links/5f7cdfb2458515b7cf6c4efd/An-Examination-of-the-State-of-the-Art-for-Multivariate-Time-Series-Classification.pdf)
 
   - Bhaskar Dhariyal, et al.
