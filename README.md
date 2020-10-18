@@ -19,6 +19,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
+- [An Examination of the State-of-the-Art for Multivariate Time Series Classification](https://www.researchgate.net/profile/Georgiana_Ifrim/publication/344501445_An_Examination_of_the_State-of-the-Art_for_Multivariate_Time_Series_Classification/links/5f7cdfb2458515b7cf6c4efd/An-Examination-of-the-State-of-the-Art-for-Multivariate-Time-Series-Classification.pdf)
+
+  - Bhaskar Dhariyal, et al.
+  - Code noy yet.
+
 - [Rank Position Forecasting in Car Racing](https://arxiv.org/pdf/2010.01707.pdf)
 
   - Bo Peng, et al.
