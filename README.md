@@ -19,7 +19,12 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
-- [Modeling Heterogeneous Seasonality With Recurrent Neural Networks Using IoT Time Series Data for Defrost Detection and Anomaly Analysis](https://dash.harvard.edu/bitstream/handle/1/37365638/KHETARPAL-DOCUMENT-2020.pdf?sequence=1&isAllowed=y) **Good Reference** 
+- [Structural Forecasting for Tropical Cyclone Intensity Prediction: Providing Insight with Deep Learning](https://arxiv.org/pdf/2010.05783.pdf)
+
+  - Trey McNeely, et al.
+  - Code not yet.
+
+- [Modeling Heterogeneous Seasonality With Recurrent Neural Networks Using IoT Time Series Data for Defrost Detection and Anomaly Analysis](https://dash.harvard.edu/bitstream/handle/1/37365638/KHETARPAL-DOCUMENT-2020.pdf?sequence=1&isAllowed=y) **Good Reference**
 
   - Khetarpal, Suraj.
   - Code not yet.
