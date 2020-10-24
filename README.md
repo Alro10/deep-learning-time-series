@@ -19,6 +19,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
+- [A Strong Baseline for Weekly Time Series Forecasting](https://arxiv.org/pdf/2010.08158.pdf)
+
+  - Rakshitha Godahewa, et al.
+  - [[Code](https://github.com/rakshitha123/WeeklyForecasting)]
+
 - [Structural Forecasting for Tropical Cyclone Intensity Prediction: Providing Insight with Deep Learning](https://arxiv.org/pdf/2010.05783.pdf)
 
   - Trey McNeely, et al.
