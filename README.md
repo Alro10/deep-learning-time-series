@@ -875,7 +875,7 @@ List of state of the art papers focus on deep learning and resources, code and e
 - Artificial intelligence
    * [AAAI](https://www.aaai.org/)
    * [AISTATS](https://www.aistats.org/)
-   * [ICANN](https://e-nns.org/icann2019/)   
+   * [ICANN](https://e-nns.org/icann2019/)
    * [IJCAI](https://www.ijcai.org/)
    * [UAI](http://www.auai.org/)
 
@@ -912,6 +912,8 @@ List of state of the art papers focus on deep learning and resources, code and e
 - [Forecasting: Principles and Practice: Slides](https://github.com/robjhyndman/ETC3550Slides)**Good material**
 
 ## Code-Resource
+
+- [Transformer Time Series Prediction](https://github.com/oliverguhr/transformer-time-series-prediction)
 
 - [DeepSeries: Deep Learning Models for time series prediction.](https://github.com/EvilPsyCHo/Deep-Time-Series-Prediction)
 
