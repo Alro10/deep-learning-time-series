@@ -19,6 +19,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
+- [MODEL SELECTION IN RECONCILING HIERARCHICAL TIME SERIES](https://arxiv.org/pdf/2010.10742.pdf)
+
+  - M. ABOLGHASEMI, et al.
+  - Code not yet.
+
 - [A Strong Baseline for Weekly Time Series Forecasting](https://arxiv.org/pdf/2010.08158.pdf)
 
   - Rakshitha Godahewa, et al.
