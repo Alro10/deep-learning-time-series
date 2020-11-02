@@ -19,6 +19,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
+- [Inter-Series Attention Model for COVID-19 Forecasting](https://arxiv.org/pdf/2010.13006.pdf) **Good reference**
+
+  - Xiaoyong Jin, et al.
+  - Code not yet.
+
 - [MODEL SELECTION IN RECONCILING HIERARCHICAL TIME SERIES](https://arxiv.org/pdf/2010.10742.pdf)
 
   - M. ABOLGHASEMI, et al.
