@@ -973,6 +973,8 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 - [Predicting/hypothesizing the findings of the M4 Competition](https://www.sciencedirect.com/science/article/pii/S0169207019301098)
 
+- [pytorch-forecasting](https://github.com/jdb78/pytorch-forecasting): A Python package for time series forecasting with PyTorch. It includes state-of-the-art network architectures
+
 ## Datasets
 
 - [A curated list of awesome time series databases](https://github.com/xephonhq/awesome-time-series-database)
