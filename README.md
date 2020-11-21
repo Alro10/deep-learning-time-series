@@ -19,6 +19,13 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
+- [Real-World Anomaly Detection by using Digital
+Twin Systems and Weakly-Supervised Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9179030)
+
+  - Castellani Andrea, et al.
+  - ```Honda Research Institute Europe GmbH```
+  - Code not yet.
+
 - [Inter-Series Attention Model for COVID-19 Forecasting](https://arxiv.org/pdf/2010.13006.pdf) **Good reference**
 
   - Xiaoyong Jin, et al.
