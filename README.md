@@ -982,7 +982,7 @@ Twin Systems and Weakly-Supervised Learning](https://ieeexplore.ieee.org/stamp/s
 
 - [pytorch-forecasting](https://github.com/jdb78/pytorch-forecasting): A Python package for time series forecasting with PyTorch. It includes state-of-the-art network architectures
 
-[Flow Forecast](https://github.com/AIStream-Peelout/flow-forecast): A deep learning for series forecasting, classification, and anomaly detection framework with built in hyperparameter searches, experiment tracking controls, and wrappers to easily deploy temporal models to production.
+- [Flow Forecast](https://github.com/AIStream-Peelout/flow-forecast): A deep learning for series forecasting, classification, and anomaly detection framework with built in hyperparameter searches, experiment tracking controls, and wrappers to easily deploy temporal models to production.
 
 ## Datasets
 
