@@ -19,6 +19,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
+- [Forecasting and Anomaly Detection approaches using LSTM and LSTM Autoencoder techniques with the applications in supply chain management](https://www.sciencedirect.com/science/article/abs/pii/S026840122031481X)
+
+  - H.D. Nguyen, et al.
+  - Code not yet.
+
 - [Physics-constrained Deep Recurrent Neural Models of Building Thermal Dynamics](https://www.climatechange.ai/papers/neurips2020/41/paper.pdf)
 
   - Ján Drgona, et al.
