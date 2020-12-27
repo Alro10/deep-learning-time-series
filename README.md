@@ -19,6 +19,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
+- [Learning to Select the Best Forecasting Tasks for Clinical Outcome Prediction](https://proceedings.neurips.cc/paper/2020/file/abc99d6b9938aa86d1f30f8ee0fd169f-Paper.pdf)
+
+  - Yuan Xue, et al.
+  - Code not yet.
+
 - [Real-World Anomaly Detection by using Digital
 Twin Systems and Weakly-Supervised Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9179030)
 
