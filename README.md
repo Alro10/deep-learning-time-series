@@ -19,6 +19,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
+- [MiniRocket: A Very Fast (Almost) Deterministic Transform for Time Series Classification](https://arxiv.org/pdf/2012.08791.pdf)
+
+  - Angus Dempster, et al.
+  - [[Code](https://github.com/angus924/minirocket)]
+
 - [Learning to Select the Best Forecasting Tasks for Clinical Outcome Prediction](https://proceedings.neurips.cc/paper/2020/file/abc99d6b9938aa86d1f30f8ee0fd169f-Paper.pdf)
 
   - Yuan Xue, et al.
