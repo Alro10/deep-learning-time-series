@@ -19,6 +19,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
+- [Physics-constrained Deep Recurrent Neural Models of Building Thermal Dynamics](https://www.climatechange.ai/papers/neurips2020/41/paper.pdf)
+
+  - Ján Drgona, et al.
+  - Code not yet.
+
 - [MiniRocket: A Very Fast (Almost) Deterministic Transform for Time Series Classification](https://arxiv.org/pdf/2012.08791.pdf)
 
   - Angus Dempster, et al.
