@@ -19,6 +19,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
+- [CHALLENGES AND APPROACHES TO TIME-SERIES FORECASTING IN DATA CENTER TELEMETRY: A SURVEY](https://arxiv.org/pdf/2101.04224.pdf)
+
+  - Shruti Jadon, et al.
+  - Code not yet.
+
 - [Forecasting and Anomaly Detection approaches using LSTM and LSTM Autoencoder techniques with the applications in supply chain management](https://www.sciencedirect.com/science/article/abs/pii/S026840122031481X)
 
   - H.D. Nguyen, et al.
