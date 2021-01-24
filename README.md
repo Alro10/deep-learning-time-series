@@ -891,6 +891,7 @@ Twin Systems and Weakly-Supervised Learning](https://ieeexplore.ieee.org/stamp/s
 
 - [Temporal Regularized Matrix Factorization for High-dimensional Time Series Prediction](https://papers.nips.cc/paper/6160-temporal-regularized-matrix-factorization-for-high-dimensional-time-series-prediction)`NIPS 2016`
 
+  - Hsiang-Fu Yu, et al.
   - [[Code](https://github.com/rofuyu/exp-trmf-nips16)]
 
 - [Time Series Prediction and Online Learning](http://proceedings.mlr.press/v49/kuznetsov16.pdf)`JMLR 2016`
