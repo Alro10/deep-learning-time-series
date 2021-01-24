@@ -899,10 +899,10 @@ Twin Systems and Weakly-Supervised Learning](https://ieeexplore.ieee.org/stamp/s
   - Vitaly Kuznetsov and Mehryar Mohri.
   - Code not yet.
 
-  - [Deep neural networks, gradient-boosted trees, random forests: Statistical arbitrage on the S&P 500](https://ideas.repec.org/p/zbw/iwqwdp/032016.html)
+- [Deep neural networks, gradient-boosted trees, random forests: Statistical arbitrage on the S&P 500](https://ideas.repec.org/p/zbw/iwqwdp/032016.html)
 
-    - Krauss, Christopher, et al.
-    - Code not yet.
+  - Krauss, Christopher, et al.
+  - Code not yet.
 
 ### Comparative: Classical methods vs Deep Learning methods
 
