@@ -19,6 +19,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
+- [Long Horizon Forecasting With Temporal Point Processes](https://arxiv.org/pdf/2101.02815.pdf)
+
+  - Prathamesh Deshpande, et al.
+  - Code not yet.
+
 - [CHALLENGES AND APPROACHES TO TIME-SERIES FORECASTING IN DATA CENTER TELEMETRY: A SURVEY](https://arxiv.org/pdf/2101.04224.pdf)
 
   - Shruti Jadon, et al.
