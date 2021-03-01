@@ -19,6 +19,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2021
 
+- [Autoregressive Denoising Diffusion Models for Multivariate Probabilistic Time Series Forecasting](https://arxiv.org/pdf/2101.12072.pdf) **reference**
+
+  - Kashif Rasul, et al.
+  - Code not yet.
+
 - [An Experimental Review on Deep Learning Architectures for Time Series Forecasting](https://www.researchgate.net/publication/347133536_An_Experimental_Review_on_Deep_Learning_Architectures_for_Time_Series_Forecasting)
 
   - Pedro Lara-Benítez, et al.
