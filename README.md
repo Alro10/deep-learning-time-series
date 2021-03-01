@@ -17,6 +17,13 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ## Papers
 
+### 2021
+
+- [An Experimental Review on Deep Learning Architectures for Time Series Forecasting](https://www.researchgate.net/publication/347133536_An_Experimental_Review_on_Deep_Learning_Architectures_for_Time_Series_Forecasting)
+
+  - Pedro Lara-Benítez, et al.
+  - [[Code](https://github.com/pedrolarben/TimeSeriesForecasting-DeepLearning)]
+
 ### 2020
 
 - [Long Horizon Forecasting With Temporal Point Processes](https://arxiv.org/pdf/2101.02815.pdf)
