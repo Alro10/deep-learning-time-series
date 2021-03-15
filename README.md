@@ -166,7 +166,7 @@ Twin Systems and Weakly-Supervised Learning](https://ieeexplore.ieee.org/stamp/s
 - [Forecasting Hierarchical Time Series with a Regularized Embedding Space](https://kdd-milets.github.io/milets2020/papers/MiLeTS2020_paper_13.pdf)
 
   - Jeffrey L. Gleason.
-  - Code not yet.
+  - [[Code](https://github.com/jlgleason/hts-constrained-embeddings)]
 
 - [Forecasting the Evolution of Hydropower Generation](https://dl.acm.org/doi/abs/10.1145/3394486.3403337)
 
