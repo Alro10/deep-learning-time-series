@@ -34,6 +34,11 @@ List of state of the art papers focus on deep learning and resources, code and e
   - Prathamesh Deshpande, et al.
   - [[Code](https://github.com/pratham16cse/DualTPP)]
 
+- [Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting](https://arxiv.org/pdf/2012.07436.pdf) `AAAI 2021`
+
+  - Haoyi Zhou, et al.
+  - [[Code](https://github.com/zhouhaoyi/Informer2020)]
+
 ### 2020
 
 - [CHALLENGES AND APPROACHES TO TIME-SERIES FORECASTING IN DATA CENTER TELEMETRY: A SURVEY](https://arxiv.org/pdf/2101.04224.pdf)
@@ -876,6 +881,11 @@ Twin Systems and Weakly-Supervised Learning](https://ieeexplore.ieee.org/stamp/s
 
   - Bryan Lim. et al.
   - [Code](https://github.com/sjblim/rmsn_nips_2018)
+
+- [A Memory-Network Based Solution for Multivariate Time-Series Forecasting](https://arxiv.org/pdf/1809.02105.pdf)
+
+  - Yen-Yu Chang, et al.
+  - [Code-unofficial implementation](https://github.com/Maple728/MTNet)]
 
 ### 2017
 
