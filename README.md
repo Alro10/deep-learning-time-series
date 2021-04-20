@@ -19,6 +19,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2021
 
+- - [Neural basis expansion analysis with exogenous variables:Forecasting electricity prices with NBEATSx](https://arxiv.org/pdf/2104.05522.pdf)
+
+ - Kin G. Olivares, et al.
+ - Code not yet.
+
 - [Autoregressive Denoising Diffusion Models for Multivariate Probabilistic Time Series Forecasting](https://arxiv.org/pdf/2101.12072.pdf) **reference**
 
   - Kashif Rasul, et al.
