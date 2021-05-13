@@ -21,8 +21,8 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 - - [Neural basis expansion analysis with exogenous variables:Forecasting electricity prices with NBEATSx](https://arxiv.org/pdf/2104.05522.pdf)
 
- - Kin G. Olivares, et al.
- - Code not yet.
+  - Kin G. Olivares, et al.
+  - Code not yet.
 
 - [Autoregressive Denoising Diffusion Models for Multivariate Probabilistic Time Series Forecasting](https://arxiv.org/pdf/2101.12072.pdf) **reference**
 
@@ -619,6 +619,11 @@ Twin Systems and Weakly-Supervised Learning](https://ieeexplore.ieee.org/stamp/s
   - Code not yet
 
 ### 2019
+
+- [Enhancing the Locality and Breaking the Memory Bottleneck of Transformer on Time Series Forecasting](https://www.aminer.cn/pub/5db9297a47c8f766461f7974/enhancing-the-locality-and-breaking-the-memory-bottleneck-of-transformer-on-time?anchor=conclusion) **Reference**
+
+  - Shiyang Li, et al.
+  - [[Code](https://github.com/mlpotter/Transformer_Time_Series)]
 
 - [Forecasting Big Time Series: Theory and Practice](https://dl.acm.org/doi/pdf/10.1145/3292500.3332289)`KDD 2019` **Relevant tutorial**
 
