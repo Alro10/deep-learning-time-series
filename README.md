@@ -19,7 +19,12 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2021
 
-- - [Neural basis expansion analysis with exogenous variables:Forecasting electricity prices with NBEATSx](https://arxiv.org/pdf/2104.05522.pdf)
+- [End-to-End Learning of Coherent Probabilistic Forecasts for Hierarchical Time Series](http://proceedings.mlr.press/v139/rangapuram21a/rangapuram21a.pdf)
+
+  -  Syama Sundar Rangapuram, et al.
+  - Code not yet.
+
+- [Neural basis expansion analysis with exogenous variables:Forecasting electricity prices with NBEATSx](https://arxiv.org/pdf/2104.05522.pdf)
 
   - Kin G. Olivares, et al.
   - Code not yet.
