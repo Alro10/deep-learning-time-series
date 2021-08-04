@@ -19,6 +19,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2021
 
+- [Online Multi-Agent Forecasting with Interpretable Collaborative Graph Neural Networks](https://arxiv.org/pdf/2107.00894.pdf)
+
+  - Maosen Li, et al.
+  - Code not yet.
+
 - [End-to-End Learning of Coherent Probabilistic Forecasts for Hierarchical Time Series](http://proceedings.mlr.press/v139/rangapuram21a/rangapuram21a.pdf)
 
   -  Syama Sundar Rangapuram, et al.
