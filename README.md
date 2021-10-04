@@ -32,12 +32,12 @@ List of state of the art papers focus on deep learning and resources, code and e
 - [Neural basis expansion analysis with exogenous variables:Forecasting electricity prices with NBEATSx](https://arxiv.org/pdf/2104.05522.pdf)
 
   - Kin G. Olivares, et al.
-  - Code not yet.
+  - [[Code](https://github.com/cchallu/nbeatsx)]
 
 - [Autoregressive Denoising Diffusion Models for Multivariate Probabilistic Time Series Forecasting](https://arxiv.org/pdf/2101.12072.pdf) **reference**
 
   - Kashif Rasul, et al.
-  - Code not yet.
+  - [[Code](https://github.com/zalandoresearch/pytorch-ts)]
 
 - [An Experimental Review on Deep Learning Architectures for Time Series Forecasting](https://www.researchgate.net/publication/347133536_An_Experimental_Review_on_Deep_Learning_Architectures_for_Time_Series_Forecasting)
 
@@ -91,12 +91,12 @@ Twin Systems and Weakly-Supervised Learning](https://ieeexplore.ieee.org/stamp/s
 - [Inter-Series Attention Model for COVID-19 Forecasting](https://arxiv.org/pdf/2010.13006.pdf) **Good reference**
 
   - Xiaoyong Jin, et al.
-  - Code not yet.
+  - [[Code](https://github.com/Gandor26/covid-open)]
 
 - [MODEL SELECTION IN RECONCILING HIERARCHICAL TIME SERIES](https://arxiv.org/pdf/2010.10742.pdf)
 
   - M. ABOLGHASEMI, et al.
-  - Code not yet.
+  - [[Code](https://github.com/mahdiabolghasemi/Conditional-reconciliation-in-HF)]
 
 - [A Strong Baseline for Weekly Time Series Forecasting](https://arxiv.org/pdf/2010.08158.pdf)
 
