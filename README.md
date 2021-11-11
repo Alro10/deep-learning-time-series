@@ -19,6 +19,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2021
 
+- [Long Range Probabilistic Forecasting in Time-Series using High Order Statistics](https://arxiv.org/pdf/2111.03394.pdf)
+
+  - Prathamesh Deshpande, et al.
+  - \[[Code](https://github.com/pratham16cse/AggForecaster)\]
+
 - [Online Multi-Agent Forecasting with Interpretable Collaborative Graph Neural Networks](https://arxiv.org/pdf/2107.00894.pdf)
 
   - Maosen Li, et al.
