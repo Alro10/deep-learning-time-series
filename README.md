@@ -19,6 +19,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2021
 
+- [Autoformer: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting](https://arxiv.org/abs/2106.13008)
+
+  - Haixu Wu, et al.
+  - [[Code](https://github.com/thuml/Autoformer)]
+
 - [Long Range Probabilistic Forecasting in Time-Series using High Order Statistics](https://arxiv.org/pdf/2111.03394.pdf)
 
   - Prathamesh Deshpande, et al.
