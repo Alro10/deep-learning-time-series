@@ -1006,6 +1006,8 @@ Twin Systems and Weakly-Supervised Learning](https://ieeexplore.ieee.org/stamp/s
 
 - [Forecasting: Principles and Practice: Slides](https://github.com/robjhyndman/ETC3550Slides)**Good material**
 
+- [Time Series Forecasting in Python](https://www.manning.com/books/time-series-forecasting-in-python-book)
+
 ## Code-Resource
 
 - [Transformer Time Series Prediction](https://github.com/oliverguhr/transformer-time-series-prediction)
