@@ -19,6 +19,11 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2021
 
+- [A machine learning approach for forecasting hierarchical time series](https://www.sciencedirect.com/science/article/pii/S0957417421005431)
+
+  - P. Mancuso, et al.
+  - Code not yet.
+
 - [Autoformer: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting](https://arxiv.org/abs/2106.13008)
 
   - Haixu Wu, et al.
