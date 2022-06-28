@@ -1064,7 +1064,7 @@ Twin Systems and Weakly-Supervised Learning](https://ieeexplore.ieee.org/stamp/s
 - [Predicting/hypothesizing the findings of the M4 Competition](https://www.sciencedirect.com/science/article/pii/S0169207019301098)
 
 - [pytorch-forecasting](https://github.com/jdb78/pytorch-forecasting): A Python package for time series forecasting with PyTorch. It includes state-of-the-art network architectures
-
+- [HyperTS](https://github.com/DataCanvasIO/HyperTS): Easy-to-use, powerful, unified full pipeline automated time series toolkit. Supports forecasting, classification and regression, etc.
 ## Datasets
 
 - [A curated list of awesome time series databases](https://github.com/xephonhq/awesome-time-series-database)
