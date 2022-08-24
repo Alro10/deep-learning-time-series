@@ -17,6 +17,12 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ## Papers
 
+### 2022
+-[Diffusion-based Time Series Imputation and Forecasting with Structured State Space Models](https://arxiv.org/abs/2208.09399)
+  - Alcaraz and Strodthoff.
+  - [[Code](https://github.com/AI4HealthUOL/SSSD)]
+
+
 ### 2021
 
 - [Autoformer: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting](https://arxiv.org/abs/2106.13008)
