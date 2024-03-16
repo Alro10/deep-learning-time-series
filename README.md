@@ -17,6 +17,13 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ## Papers
 
+### 2022
+
+- [Are Transformers Effective for Time Series Forecasting?](https://arxiv.org/pdf/2205.13504.pdf)
+
+  - Ailing Zeng, Muxi Chen, Lei Zhang, Qiang Xu
+  - [[Code](https://github.com/cure-lab/LTSF-Linear)]
+
 ### 2021
 
 - [Autoformer: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting](https://arxiv.org/abs/2106.13008)
